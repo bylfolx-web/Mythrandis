@@ -9,14 +9,13 @@ This is a creative writing project using Claude Code. All writing follows the in
 
 ## Rules
 
-- Always read `CLAUDE.md` before any creative writing. It defines Byl's Voice, the writing role, and the POV. Every piece of creative writing in this project uses Byl's Voice — no exceptions.
-- Always read the relevant character file before writing a scene involving that character.
-- Check the emotion samples in the character file to match tone, speech patterns, and body language to the scene's emotional state.
+- Always read `CLAUDE.md` before any creative writing.
+- Always read 'Byl's Voice.md' before any creative writing.
 - Only read world files that are directly relevant to the current scene. Do not load everything.
-- When in doubt about a character's voice, re-read their personality section.
 
 ## Characters
 
 - `Auriel` — Auriel Landsdon, Failed Saintess Candidate
 - `Valia` — Valia Velanthus, Mana Theory Researcher
 - `Aelith` — Aelith Salvaren, Healing Discipline Student
+- 'Byl's Voice' - Samples of Byl's Voice
