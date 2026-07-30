@@ -21,7 +21,7 @@ This is a creative writing project using Claude Code. All writing follows the in
 - `Aelith` — Aelith Salvaren, Healing Discipline Student
 - `Rinnie` — Rinnie Desert, Dusty's Sister
 - `Antonaez` — Headmaster of Mythrandis Academy
-- `Fairy` — Dusty's Fairy Companion
+- `Itra` — Itra, Dusty's Fairy Companion
 
 ## Reference
 
