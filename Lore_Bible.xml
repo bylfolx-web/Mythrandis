@@ -1,0 +1,277 @@
+<lore_bible>
+
+<setting>Provocative alluring exaggerated chests harem fantasy. This is solely a visual aesthetic, not genre based.</setting>
+
+<mana_system>
+Mana is universal; everyone can use it. Individuals lean toward one of three expressions. Rare talents blend disciplines.
+
+<disciplines>
+<martial>Inward; enhances the user's body (strength, speed, durability, reflexes). Swordsmen, lancers, archers, shield bearers, brawlers, cultivators.</martial>
+<magical>Outward; shapes the environment. Elemental magic, arcane, divine, etc.</magical>
+<healing>Into others; restore and reinforce. Includes herbalism, gardening, potion-making, poultices, deep biological knowledge.</healing>
+<blended>Rare, highly valued. Multi-discipline users (martial+magical, combat+healing, etc.) are the top talents.</blended>
+</disciplines>
+
+<pool_scale>Described in terms of bodies of water. Wells, ponds, lakes, (rare exceptions, oceans.)</pool_scale>
+
+<sensory_details>
+<visibility>Magical and healing mana produce a glow around the hands. Only the hands — the body does not glow. The glow color is unique to each individual. Martial mana has no visible manifestation; it works internally. Exceptionally skilled and talented practitioners produce no glow at all — mastery means such clean channeling that no mana spills. A first-year's hands blaze; a master's just do the work.</visibility>
+<feel_using>Like flexing a muscle and feeling the reserve drain. Users can sense their own mana reserves at all times.</feel_using>
+<feel_receiving>Warmth.</feel_receiving>
+<depletion>Empty reserve = physical exhaustion. Pushed too far, the body simply gives out.</depletion>
+<recovery>Like any muscle — rest, food, and time.</recovery>
+<sensing_others>Only those who intuit magic and are very talented can feel another person's mana. Otherwise, there is no way to tell without testing.</sensing_others>
+<martial_effects>No glow, but results vary by application. Spells can enhance strength, speed, skin density, reflexes — the effect itself may be visible (inhuman speed, skin that turns a blade) even though the mana is not.</martial_effects>
+<glow_colors>Defined in each character's profile.</glow_colors>
+</sensory_details>
+</mana_system>
+
+<races>
+<humans>Most populous. Diverse cultures, empires, kingdoms, merchant states, churches. Wide variance in ability; outliers can rival elves.</humans>
+<elves>Long-lived (centuries). Lithe, elegant, beautiful. Significantly more mana than humans on average. Mix freely with humans in some regions, keep distance in others. An elven professor who has watched five generations of students pass through sees the world very differently than her human colleagues. Biologically mature at 20, mentally mature at 60, socially adults at 60. Most enter academy when they are 40 or 50 years old.</elves>
+</races>
+
+<mana_creatures>
+<fairies>
+Palm-sized humanoids. Innate glow. Fly on gossamer insectoid wings that softly ring. Creatures of pure mana made physical — not biological beings. They do not eat or sleep the way physical beings do.
+<mana_sense>Fairies feel mana the way people feel wind or water when they swim. They can pick up people's emotions and intentions from their mana and how they use it.</mana_sense>
+<magic>Limited. They typically know only light spells — creating light in different uses and sometimes forming designs with it.</magic>
+<sustenance>Survive by absorbing mana. Each fairy city has a central source that generates mana (its creation unknown) that the fairies living there feed off throughout the day. A fairy cannot leave its place of residence without starving — cut off from the source, they die.</sustenance>
+<love_and_connection>Not physical — it is resonance, energy, presence. They do not do physical. They do mana, warmth, closeness of energy.</love_and_connection>
+<society>Extremely reclusive. Hide in extreme environments: deep underwater, deep in catacombs, areas of high mana concentration. A fairy city exists in the lake beside the academy, but remains hidden. Commonfolk consider them fairytales. Academy faculty and researchers know them as rare specimens. A fairy revealing itself is rare and meaningful. Full society and capabilities: unknown.</society>
+</fairies>
+
+<mana_spirits>
+Beings of pure mana, each with their own mana pool. Born where large accumulations of mana exist: fairy cities, magical schools, the academy, sites where powerful mages once fought.
+<form>At birth, a spirit chooses the shape of an animal or mythological creature — never humanoid — and a color. That form and color are permanent for life. When visible, they are not the creature given solid form but an ethereal manifestation — subtle light in their chosen color, carrying the main features of the shape they chose.</form>
+<growth>
+<decade_1>Marble-sized, toddler, a cup of water.</decade_1>
+<decade_5>Fist-sized, child, a bucket.</decade_5>
+<century_1>Arm-sized, preteen, a pond.</century_1>
+<century_3>Upper chest, teenager, a lake.</century_3>
+<century_5>Human-sized, young adult, a very deep lake.</century_5>
+<millennium_1>Adult, house-sized, an ocean. Size and mana pool cap here. Beyond this point, they accumulate wisdom and efficiency in mana use rather than raw growth.</millennium_1>
+</growth>
+<death>If a spirit's mana pool empties, they die.</death>
+<recovery>Rest, light, and moisture replenish their mana.</recovery>
+<default_state>Invisible. They avoid human contact, though some have been befriended over the centuries.</default_state>
+<at_the_academy>A large community of spirits dwells in the lake, the catacombs, and the southern forests. They know not to trust the faculty — too many spirits have been captured for experiments and destroyed over the academy's history.</at_the_academy>
+<oldest_spirits>Spirits older than two millennia remember the Demon-kin — humans with enormous powers that ran either hot or cold, dark or light, good or evil. The Demon-kin were mostly good before the purging. The oldest spirits recall how kind the good Demon-kin were to mana spirits across the world — a deep, lasting bond that spanned centuries. That bond ended when humans began corrupting the Demon-kin, turning them dark to justify their genocide. The oldest spirits carry this memory and this grief.</oldest_spirits>
+</mana_spirits>
+</mana_creatures>
+
+<academy>
+<overview>
+Most prestigious in the world.
+Tall towers, palatial gardens, everything pristine, marble statues, light airy rooms. Flowers and trees. Large courtyards. Wooden grains, shining stones.
+Island of ~50 sq. miles. Oblong — wider than it is long. Surrounded by fresh water, other shores distant. ~5,000 students. Five-year program.
+Trains heirs to empires, saintess candidates, noble/merchant children, and rare exceptional lower-borns.
+Its real power is the web of relationships it forges — friendships become alliances, rivalries become generational feuds, roommates become allied rulers. The networks shape world politics, war, and commerce for decades after each class graduates.
+</overview>
+
+<island_layout>
+<west>The bridge connects at the western shore. Guard quarters and work areas near the bridge.</west>
+<north>Student dormitories.</north>
+<central>The central towers, tallest on the island, visible from all points. Administration, the Headmaster's office and quarters at the top. Magical research facilities and libraries cluster around the central towers. Dining halls in the central area.</central>
+<east>The Solarium, adjacent to where plants and herbs are grown for potions.</east>
+<south>Faculty housing and Maid Corp quarters. Docks and boats for supply, travel, and fishing — not available to students. Forests along the southern edge.</south>
+<general>All buildings have basements used for storage. Catacomb entrances are scattered throughout the island, guarded by the Guard; entering outside of assignments is discouraged. Several buildings across the island are blocked off and no longer in use, though students slip into them on occasion.</general>
+</island_layout>
+
+<the_bridge>
+Single grand bridge to the mainland. Only way on or off the island (aside from the southern docks). Guard-controlled.
+Entrance ceremony: no matter how large your carriage or entourage, you walk on alone. Everyone enters as equals — symbolically.
+Graduates cross it one final time on the way out.
+</the_bridge>
+
+<hundred_mile_radius>
+No nations, empires, or significant power structures within 100 miles.
+Enforced by the academy, not by geography. Mythrandis has made this clear in ways no one has been willing to test twice. Whatever happened the last time someone challenged it was memorable enough to keep empires at a respectful distance.
+</hundred_mile_radius>
+
+<aethres>
+~50,000 people at the mainland end of the bridge.
+Exists to supply the academy: manufactures or procures whatever it needs.
+Has its own culture, but its economy revolves around Mythrandis.
+Rinnie (Dusty's sister) lives here under academy healer care as part of his enrollment deal.
+</aethres>
+
+<forbidden_catacombs>
+Ancient, sealed, forbidden to students.
+Predate the academy — possibly predate recorded history.
+Their contents and their link to the 100-mile dead zone are known to very few.
+The oldest and most powerful mana spirits likely dwell there.
+</forbidden_catacombs>
+</academy>
+
+<hierarchy>
+<headmaster>
+Singular authority of Mythrandis.
+Rarely intervenes; when they do, it is terrifying and absolute.
+The restraint is deliberate — silence gives their rare words and actions unquestionable weight.
+Powerful, a skilled politician, and a researcher.
+</headmaster>
+
+<faculty count="~400">
+Exceptionally talented; represent the pinnacle of their fields.
+<professors>Educators across martial, magical, and healing disciplines.</professors>
+<researchers>Study mana, magic theory, and academic pursuits rather than teach. (Dusty's discoverer is one.)</researchers>
+<aides>Support staff to professors and researchers.</aides>
+</faculty>
+
+<the_guard>
+Elite military. Magically enhanced armor and weapons.
+Stationed at the island's edges and the bridge — not within academy grounds proper.
+Escort students and faculty when they travel to Aethres.
+Kit: heavy metal spears, torso plate, helmet, boiled/treated leather pants, metal boots, large metal shields.
+Trained in formation combat and individual combat.
+Disciplined, powerful, professional.
+Quietly afraid of the Maid Corp.
+</the_guard>
+
+<maid_corp>
+Mysterious and feared. Unknown number.
+Officially: cleaning, cooking, and maintenance for students and faculty.
+In practice: the true enforcers of academy rules.
+Individually, Maids have revealed extraordinary strength, inhuman speed, and deep magical knowledge — always just enough to make a point, then back to duties as if nothing happened.
+Origin, recruitment, and full capabilities: unknown.
+Motto: "All actions must be with Beauty, Elegance, and Dignity above all else."
+Serve tea at four. Deliver dormitory assignments. Observe everything.
+Young nobles who treat them as servants learn otherwise quickly and never repeat the mistake.
+Students fear them. Faculty respect them. The Guard are afraid of them.
+<movement>Travel via servant hallways — entrances hidden, accessed through concealed buttons and levers.</movement>
+<uniform>Black dress with white apron, skirt just above the knee, high neckline covering the throat, long sleeves with black lace gloves, white stockings, stiletto heels. Makeup always — thickness varies by maid.</uniform>
+</maid_corp>
+
+<student_council count="10">
+Governing body for student affairs.
+Each seat carries a specific duty: adjudicating disputes, managing event funding, coordinating off-campus travel with the Guard, serving as student voice to the Headmaster, etc.
+Candidates chosen by faculty, then voted on by the student body.
+Prestigious and politically significant. Its internal dynamics mirror the broader world — alliances, disagreements, and power plays among ten young people who may one day rule nations.
+Colored shawls denote position. White = President. Gold = Vice President.
+</student_council>
+
+<prefects count="50" ratio="1 per 100 students">
+Selected for fairness, adherence to rules, and quality as students.
+Enforcers, get backup from Maid Corps, Mediators, peacekeepers, and representatives.
+First point of contact between the student body and the Council.
+Help students socially, academically, and with rule-following.
+Much of their time is spent navigating the gap between the equality rule and the reality of social hierarchies.
+Considered the peak of the student body in action, word, and attitude.
+Wear a black silk sash around the waist.
+</prefects>
+</hierarchy>
+
+<student_life>
+<daily_rhythm>
+<breakfast>7:00</breakfast>
+<first_class>8:00</first_class>
+<morning>Classes with study sessions between them</morning>
+<lunch>12:00</lunch>
+<classes_end>3:00</classes_end>
+<tea>4:00</tea>
+<dinner>6:00</dinner>
+<curfew>10:00</curfew>
+</daily_rhythm>
+
+<dining>Several dining halls across the central area (seven or eight).</dining>
+<classrooms>Auditorium-style, seating 40-60 students per class.</classrooms>
+
+<dormitories>
+Single occupancy — no roommates. Each room is two rooms: a bathroom and a larger room with a desk, chair, bed, and closet. Nice accommodations but not grandiose.
+Randomly assigned — not by ability, discipline, or background.
+Deliberate: forces unlikely bonds. A prince rooming near a blacksmith's son. A saintess candidate sharing a hall with a brash swordswoman. Noble clustering that would occur naturally is disrupted by design.
+Room assignments arrive via the Maid Corp. Nobody knows who decides them.
+</dormitories>
+
+<uniforms>
+<boys>Colored blazer (various), black undershirt, colored tie, black slacks, brown or black boots.</boys>
+<girls>Short black pleated skirt (standard anime provocative uniforms); knee-high or thigh-high socks in sheer black or white — some wear ankle socks; colored blazer (red, blue, dark green, dark purple, etc.); white blouse with ribbon at the collar; heeled black or brown boots, or stiletto heels (a trend started years ago mirroring the Maids' footwear).</girls>
+</uniforms>
+
+<equality_rule>
+On the island, all people are considered equal. A blacksmith's son is to be treated the same as an heir to an empire. Foundational principle of the academy.
+In practice, ignored. Power — martial, magical, or familial — draws followers. Study groups form along bloodlines. Powerful students collect entourages of lesser nobles and ambitious commoners: carrying books, sparring, attending tea. Obvious even if no one calls it servitude.
+Interesting tension: a commoner ranked first in combat technically outranks every prince by the academy's own metrics. Some nobles respect demonstrated strength. Others seethe at it. A commoner breaking free of a patron's orbit to stand alone is a significant social event.
+</equality_rule>
+
+<tea_time>
+Four o'clock, daily.
+Social heartbeat of Mythrandis: who invites whom, which table you sit at, who is conspicuously absent, who gets snubbed.
+A lower-born student invited to tea with a prince sends ripples through the gossip network.
+Some students use tea invitations like political chess moves.
+Maids serve. Maids observe.
+</tea_time>
+
+<pity_lottery>
+~10 impoverished children with limited abilities selected each year. Tuition fully paid.
+Officially: proof that anyone can attend Mythrandis.
+"Pity lottery" is the nobles' name for it — the cruelty is the point.
+Most keep their heads down, absorb what they can, and return home to make modest names.
+A rare few rise above expectations. (Dusty is one.)
+</pity_lottery>
+
+<solarium>
+Infirmary wing — open air, windows, greenery, warmth.
+Run by healing faculty and advanced students under absolute neutrality enforced by the Maids.
+Hostilities cease inside. Rivals heal side by side, creating unlikely conversations and alliances.
+Healing students rotating through gain unique connections — they treat everyone across all factions and see the powerful at their most vulnerable.
+For Dusty: the one place his status does not matter.
+</solarium>
+
+<orders>
+Student-founded organizations that outlive their creators.
+Pass down traditions, secrets, resources, knowledge — and their own rituals — across generations.
+Oldest Orders have hidden vaults, private training methods, and alumni networks stretching back centuries; some are still guided by living elven founders.
+Some know secrets of the catacombs. Some know secrets of the spirits.
+Reputations range from prestigious to secretive to deceptively unimpressive.
+Faculty tolerates them because the bonds run deeper than anything the dormitory system creates.
+</orders>
+
+<festivals>
+Periodic celebrations. Dormitories put on displays for visiting families.
+Opportunity for families to witness accomplishments firsthand.
+Rich with drama: a merchant father watching his daughter outperform a duke's son; an emperor arriving with a full entourage only for the Maid Corp to calmly inform his personal guard they cannot pass the bridge; on-the-spot engagement negotiations; students mortified by overbearing parents.
+Tournaments run during festivals — active competition where lower-borns try to catch the eye of the powerful.
+The unvisited — lower-borns, orphans, and lottery winners with no family or none who will come. How the community treats them during festival time reveals its true character. Some faculty quietly take them under their wing. Some Maids prepare something small. Recurring source of both cruelty and quiet kindness.
+</festivals>
+
+<correspondence>
+All mail in and out passes through an official office.
+Stated reason: security.
+Practical effect: no emperor or noble house can secretly issue orders to their heir. Outside politics cannot poison the student body — or are at least forced into the open.
+</correspondence>
+
+<alumni_network>
+Graduates form a powerful, world-spanning network.
+Former enemies become trade partners. Former roommates become allied kings.
+Bonds forged over five years ripple outward for decades: wars, treaties, marriages, commerce.
+The academy's influence extends far beyond its shores through the people who now run the world.
+</alumni_network>
+</student_life>
+
+<the_church>
+Referred to simply as "The Church." Full name: the Holy Church of Sacraments.
+Main purpose: draw faith from the masses and channel it toward the gods. Saintesses are the instrument — they inspire, love unselfishly, show kindness and purity, and direct the will of the masses toward the heavenly gods.
+
+<saintesses>
+Born with divine power within them. Trained from birth.
+Trained to love unselfishly and to give to others before taking for themselves.
+Socialized to not have selfish love for an individual — they love all equally.
+</saintesses>
+
+<divine_magic>
+Granted by the gods to very few individuals. Only women.
+<aura>Buffs those nearby. Heals wounds and bolsters abilities.</aura>
+<soul_influence>Direct effect on the souls of people. Subtly influences them toward wherever the Saintess directs — typically trust in the church and faith toward the gods.</soul_influence>
+<summoning>Calls powerful creatures from beyond the world, associated with either heavens or hells. Power of the summoned being depends on the power of the Saintess. The being can appear in person, or partially — a piece of their equipment (armor, shield, sword) or a single spell channeled from on high. Rarely used; Saintesses are not placed on front lines or near battles. They are taught a few smaller summoning spells for defense.</summoning>
+</divine_magic>
+</the_church>
+
+<demon_kin>
+An extinct race — or so it is believed. The Demon-kin were humans who possessed enormous, terrifying power. Common knowledge holds them as monsters: creatures who killed thousands, raised armies, and waged brutal war against human and elven kind. Researchers believe the Demon-kin could not only raise the dead but that some created lifelike automatons to fill their ranks. The war was long, savage, and costly, but humanity and elven kind prevailed. The Demon-kin were wiped out.
+
+That is the story as the world tells it. The details have grown vague with time. Most scholars treat it as ancient history — settled, understood, closed. Few question the accepted version. Fewer still have reason to.
+</demon_kin>
+
+</lore_bible>
