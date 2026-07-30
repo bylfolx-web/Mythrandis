@@ -10,12 +10,19 @@ This is a creative writing project using Claude Code. All writing follows the in
 ## Rules
 
 - Always read `CLAUDE.md` before any creative writing.
-- Always read 'Byl's Voice.md' before any creative writing.
+- Always read 'Byl's Voice' before any creative writing.
 - Only read world files that are directly relevant to the current scene. Do not load everything.
 
 ## Characters
 
-- `Auriel` — Auriel Landsdon, Failed Saintess Candidate
+- `Dusty` — Dusty Desert, 1st Year Healing Student, Pity Lottery Winner
 - `Valia` — Valia Velanthus, Mana Theory Researcher
+- `Auriel` — Auriel Landsdon, Failed Saintess Candidate
 - `Aelith` — Aelith Salvaren, Healing Discipline Student
-- 'Byl's Voice' - Samples of Byl's Voice
+- `Rinnie` — Rinnie Desert, Dusty's Sister
+- `Antonaez` — Headmaster of Mythrandis Academy
+
+## Reference
+
+- `Byl's Voice` — Samples of Byl's Voice
+- `Lore Bible` — World setting, mana system, academy details
