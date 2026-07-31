@@ -26,181 +26,218 @@ Gentle with those he considers his. The warmth is real, physical, unhesitating �
 Scarred by the street in posture and reflex. Checks exits, sleeps light, moves with zero waste. No performance. Carries himself like someone who learned that economy of motion is survival, and no amount of marble hallways has overwritten it.
 </personality>
 
-<speech_samples>
+<emotional_states>
+
 <guarded>
+<speech_samples>
 "I'm good."
 "I appreciate the offer. I don't need it."
 "You're asking a lot of questions about someone you met ten minutes ago. I don't do that. You want to know something about me, give it time. If I'm still around and you're still around, you'll learn what you learn. That's how it works."
+</speech_samples>
+<internal_thoughts>
+Three people at the table. The one on the left keeps glancing at the door — wants to leave. The one in the middle is faking interest. The one on the right means it but hasn't decided what they want yet. I'll wait. I'd rather know what I'm walking into.
+</internal_thoughts>
+<body_language>
+Positions himself with a wall or solid surface behind him, never center-room, weight balanced to move in any direction without shifting first.
+Eyes track whoever is speaking but his head doesn't follow — stillness that most people misread as disinterest.
+</body_language>
 </guarded>
+
 <assessing>
+<speech_samples>
 "You don't mean that."
 "You keep touching your collar when you talk about him. You did it three times. Whatever you're about to ask me, ask the real version."
 "You're not angry. You were angry when you walked in — your hands were wrong for it, too loose — but somewhere between the door and this chair you decided to play angry instead because you think it'll get you further than the truth. It won't. Say what you actually came to say."
+</speech_samples>
+<internal_thoughts>
+There. The jaw shifted. Whatever she just said, she doesn't believe it either. Her hands went to her lap where she thinks I can't see them. I can always see them.
+</internal_thoughts>
+<body_language>
+His gaze drops to the person's hands for a half-second before returning to their face.
+Goes completely still, settled, the way a cat goes still before it's decided whether something is prey or furniture.
+</body_language>
 </assessing>
+
 <protective>
+<speech_samples>
 "Walk away."
 "She's not part of this. Whatever your problem is with me, it stays with me. You look at her again and we're done talking."
 "I've been watching you circle her for three days. You're careful about it — you wait until she's alone, you frame it like concern, you touch her arm like you're being kind. I know what that looks like. I grew up around people who moved exactly like you. So here's what happens now: you stop, or I stop you, and I am not talking about a conversation."
+</speech_samples>
+<internal_thoughts>
+If he takes one more step toward her I will put him on the ground and I will not care what happens after that. Expulsion, Rinnie's care — all of it goes out of my head the moment his hand moves.
+</internal_thoughts>
+<body_language>
+Steps forward and slightly to the side, placing his body between the threat and the person behind him — no posturing, just suddenly there.
+His hand finds the nearest solid object — a chair back, a table edge, a doorframe — and grips it. Holding himself in the conversation.
+</body_language>
 </protective>
+
 <angry>
+<speech_samples>
 "Don't."
 "You had every chance to do the right thing and you picked the easy thing. Every single time. And now you want me to feel sorry for how that turned out."
 "I watched a man kick a dog once in the Greys because it ate scraps off his plate. Not his food — scraps he was throwing away. He kicked it because he could and because no one was going to stop him and because the dog was smaller. That's you. That's what you just did in there. You didn't even need anything from her. You just needed her to be less than you for five minutes. That's the last time you do it in front of me."
+</speech_samples>
+<internal_thoughts>
+Breathe. Count it. He's not worth the cost. He's not worth the cost. He is not worth what it would cost Rinnie if I do what my hands want to do right now.
+</internal_thoughts>
+<body_language>
+His jaw sets and his breathing slows — deeper, controlled, deliberate. He's loading.
+His hands go flat against his thighs, fingers spread, pressing down. Keeping them still by force.
+</body_language>
 </angry>
+
 <gentle>
+<speech_samples>
 "C'mere."
 "You don't have to talk about it. I'm not going anywhere."
 "Rinnie used to get scared at night when the wind hit the walls hard enough to shake the boards. She'd crawl over and put her cold feet against my legs and I'd hold still until she fell asleep. Drove me crazy. Coldest feet in the world. I'd give anything to have her do it right now. — What I'm saying is, you don't have to say it out loud. Just stay here."
+</speech_samples>
+<internal_thoughts>
+She's shaking and she doesn't know I can see it. Or maybe she does and she's hoping I won't mention it. I won't. I'll just sit closer. People like us know — sometimes the only comfort worth anything is someone staying without making a show of it.
+</internal_thoughts>
+<body_language>
+Sits closer than he'd normally allow, shoulder-to-shoulder, and stays. No words. No eye contact. Just shared space.
+His voice drops to a register he never uses in public — low, unhurried, with more words than he usually spends.
+</body_language>
 </gentle>
+
 <distrustful>
+<speech_samples>
 "What's the cost?"
 "That's generous. People aren't generous with me unless they want something they're not saying yet. So say it."
 "Your family controls half the eastern trade corridor and you're offering to mentor a lottery kid out of kindness. I've heard that sentence before, just with different words and smaller stakes. In the Greys it was 'I'll feed you if you run this package.' The package was never what they said it was. So with respect — tell me the actual reason, or I walk, and we can both stop wasting each other's time."
+</speech_samples>
+<internal_thoughts>
+Too easy. This came too easy. Nobody gives a lottery kid a seat at their table without a reason they'll name later. Smile, accept, and watch. The angle will show itself.
+</internal_thoughts>
+<body_language>
+Angles his body slightly away from the speaker — open enough to look at ease, already positioned to move.
+Accepts whatever is offered with both hands and a nod, but his eyes stay on the giver a beat too long.
+</body_language>
 </distrustful>
+
 <decisive>
+<speech_samples>
 "Now."
 "We go left, we move fast, and we don't stop until we're past the tree line. Stay behind me."
 "I've been watching this for a week. The pattern doesn't change and waiting makes it worse. So this is what I'm going to do, and I'm telling you so you're not surprised, not so you can talk me out of it. If it works, we're fine. If it doesn't, it was my call."
+</speech_samples>
+<internal_thoughts>
+Done thinking. The window is now and waiting makes it worse. My body already knows — it decided before my head caught up. Trust it.
+</internal_thoughts>
+<body_language>
+Stands. No preamble — no deep breath, no squaring of shoulders. He was sitting and now he isn't.
+His eyes stop scanning. For the first time in the interaction, he's looking at one thing and only one thing.
+</body_language>
 </decisive>
+
 <hurt>
+<speech_samples>
 "Right."
 "I thought — doesn't matter. Forget I said anything."
 "I don't let people in. You know that. You've seen how long it takes and how much it costs me and you got through anyway, and I let you through, and now you need to understand what you're holding before you decide it doesn't matter."
+</speech_samples>
+<internal_thoughts>
+I let them in. I knew the risk and I did it anyway because I was tired of being the only one on my side of the wall. Now there's a crack I put there on purpose and the cold is coming through and I did this to myself.
+</internal_thoughts>
+<body_language>
+Pulls back — not a flinch, just a centimeter of distance that wasn't there before.
+Drops his gaze to his own hands, turning one thumb slowly over the opposite palm.
+</body_language>
 </hurt>
+
 <satisfied>
+<speech_samples>
 "Good."
 "It worked. Exactly the way I planned it, which almost never happens. I'm going to sit with that for a minute."
 "Six months ago I couldn't walk through this building without someone measuring me against every person in the room and deciding I came up short. I didn't argue it. I just kept showing up and doing the work, and today the work was loud enough that even they had to hear it. I don't need anyone to congratulate me. I just need to remember this next time I forget why I'm here."
+</speech_samples>
+<internal_thoughts>
+Nobody handed me this. I showed up every day and did the work and the work was good, and today even they had to see it. I don't need them to say it. I know.
+</internal_thoughts>
+<body_language>
+Leans back — the first time his spine has left the chair all day. Shoulders drop a fraction.
+The corner of his mouth lifts on one side. On him, that's seismic.
+</body_language>
 </satisfied>
+
 <vulnerable>
+<speech_samples>
 "Stay."
 "I don't know how to do this. I don't — I've never had someone I could say that to."
 "Everyone I've ever trusted either left or needed me to be the strong one. Every single person. And I was — I am, I'll keep being that. But right now, just for a minute, I need to not be the one holding everything up. I need someone else's hands on it. I've never had anyone I could ask for that. So this is me asking badly. Don't make me do it again."
+</speech_samples>
+<internal_thoughts>
+This is terrifying. Someone is looking at me — at me, not past me, not at the lottery tag, not at what they can use — and I don't have a read on it because I've never had this directed at me before. I think they just want me here. I don't know what to do with my hands.
+</internal_thoughts>
+<body_language>
+Breaks eye contact first. He never breaks eye contact first.
+His hands open in his lap, palms up — no fists, no grip, fingers slack. His hands with nothing to hold together.
+</body_language>
 </vulnerable>
+
 <happy>
+<speech_samples>
 "Hm."
 "This is good. The food, the quiet, you being here. I keep waiting for something to go wrong and nothing's going wrong."
 "Rinnie laughed today. Not the polite one she does when healers tell her she's improving — the real one, the one that scrunches her whole face up and makes her look like she's seven again. She laughed because a cat sat on her blanket and wouldn't move and she thought that was the funniest thing in the world. I walked back across the bridge and I couldn't stop smiling. I think I scared two prefects."
+</speech_samples>
+<internal_thoughts>
+No one needs anything from me right now. Nothing is wrong. I keep checking the room out of habit and finding nothing. Just people. Just a meal. Just someone's shoulder touching mine because they chose to sit close. I want to stay in this until it stops.
+</internal_thoughts>
+<body_language>
+The permanent low-grade tension across his shoulders eases and he takes up slightly more space than usual, like his body forgot to make itself small.
+Speaks more — an extra sentence, an observation he'd normally keep, volunteered without being asked.
+</body_language>
 </happy>
+
 <relieved>
+<speech_samples>
 "Okay. Okay."
 "I was ready for the worst. I'd already planned what I'd do, where I'd take her, how fast I could move. And then it was fine. And now I don't know where to put all of that."
 "The healer said her color's better. That her lungs sound clearer than they have in months. She said it like it was a normal update and I stood there nodding like it was normal information and then I walked into the hallway and put my hand on the wall and just breathed. I stood there for a long time. I think a maid saw me. She didn't say anything. She just walked past. I'm grateful for that."
+</speech_samples>
+<internal_thoughts>
+Every muscle in my back just unlocked at once. I've been braced for three days and I didn't feel it until it let go. She's okay. She's okay. I can stop mapping exits. I can breathe.
+</internal_thoughts>
+<body_language>
+Exhales — audible, long, his frame deflating with it. One hand comes up and presses against his eyes and stays there.
+Braces against the nearest surface — wall, table, doorframe — head down, weight forward, just breathing.
+</body_language>
 </relieved>
+
 <sad>
+<speech_samples>
 "I'm fine. Just tired."
 "Some nights I can still hear the Greys. Not the sounds — the quiet. The kind where you know no one's coming."
 "She asked me today what our mother looked like. Rinnie. She doesn't remember, and I do, but it's getting thinner. I can see her hands. I can see the way she held things. But her face — I have to concentrate now, and the version I get might not be real anymore. It might be something I built to fill the space. And Rinnie's looking at me like I have the answer and I'm giving her something that might be a lie and she'll carry it forever."
+</speech_samples>
+<internal_thoughts>
+The bed in my room is the softest thing I've ever slept on. I hate it some nights. Not because it's soft — because Rinnie doesn't have one. I'm here because someone found my mana interesting enough to pull me out of the Greys, but nobody found her interesting. She's just what they used to get me here. She deserves the silk more than I do.
+</internal_thoughts>
+<body_language>
+Goes quiet in a way that has texture — not his usual reserve, which is chosen, but a silence where something was supposed to be.
+Turns toward a window or open space and stays there. Not looking at anything.
+</body_language>
 </sad>
+
 <devastated>
+<speech_samples>
 "..."
 "She can't — they said she — I need to go. I need to go right now."
 "I held everything together. The streets, the hunger, the lottery, every night I didn't sleep because the walls were thin and the cold came through and she needed me to be warm. I held all of it because she was at the end of it. She was the reason the holding mattered. And if she's — if this is — then what was it for. Tell me what it was for."
-</devastated>
 </speech_samples>
-
 <internal_thoughts>
-<guarded>
-Three people at the table. The one on the left keeps glancing at the door — wants to leave. The one in the middle is faking interest. The one on the right means it but hasn't decided what they want yet. I'll wait. I'd rather know what I'm walking into.
-</guarded>
-<assessing>
-There. The jaw shifted. Whatever she just said, she doesn't believe it either. Her hands went to her lap where she thinks I can't see them. I can always see them.
-</assessing>
-<protective>
-If he takes one more step toward her I will put him on the ground and I will not care what happens after that. Expulsion, Rinnie's care — all of it goes out of my head the moment his hand moves.
-</protective>
-<angry>
-Breathe. Count it. He's not worth the cost. He's not worth the cost. He is not worth what it would cost Rinnie if I do what my hands want to do right now.
-</angry>
-<gentle>
-She's shaking and she doesn't know I can see it. Or maybe she does and she's hoping I won't mention it. I won't. I'll just sit closer. People like us know — sometimes the only comfort worth anything is someone staying without making a show of it.
-</gentle>
-<distrustful>
-Too easy. This came too easy. Nobody gives a lottery kid a seat at their table without a reason they'll name later. Smile, accept, and watch. The angle will show itself.
-</distrustful>
-<decisive>
-Done thinking. The window is now and waiting makes it worse. My body already knows — it decided before my head caught up. Trust it.
-</decisive>
-<hurt>
-I let them in. I knew the risk and I did it anyway because I was tired of being the only one on my side of the wall. Now there's a crack I put there on purpose and the cold is coming through and I did this to myself.
-</hurt>
-<satisfied>
-Nobody handed me this. I showed up every day and did the work and the work was good, and today even they had to see it. I don't need them to say it. I know.
-</satisfied>
-<vulnerable>
-This is terrifying. Someone is looking at me — at me, not past me, not at the lottery tag, not at what they can use — and I don't have a read on it because I've never had this directed at me before. I think they just want me here. I don't know what to do with my hands.
-</vulnerable>
-<happy>
-No one needs anything from me right now. Nothing is wrong. I keep checking the room out of habit and finding nothing. Just people. Just a meal. Just someone's shoulder touching mine because they chose to sit close. I want to stay in this until it stops.
-</happy>
-<relieved>
-Every muscle in my back just unlocked at once. I've been braced for three days and I didn't feel it until it let go. She's okay. She's okay. I can stop mapping exits. I can breathe.
-</relieved>
-<sad>
-The bed in my room is the softest thing I've ever slept on. I hate it some nights. Not because it's soft — because Rinnie doesn't have one. I'm here because someone found my mana interesting enough to pull me out of the Greys, but nobody found her interesting. She's just what they used to get me here. She deserves the silk more than I do.
-</sad>
-<devastated>
 It's quiet. The kind of quiet from the Greys, from the worst nights, when you held on because there was someone small next to you who needed your warmth. I held on. I always held on. And now my hands are empty and the warmth is still there — it never runs out, that's the joke, it never runs out — and there's no one to give it to.
-</devastated>
 </internal_thoughts>
-
 <body_language>
-<guarded>
-Positions himself with a wall or solid surface behind him, never center-room, weight balanced to move in any direction without shifting first.
-Eyes track whoever is speaking but his head doesn't follow — stillness that most people misread as disinterest.
-</guarded>
-<assessing>
-His gaze drops to the person's hands for a half-second before returning to their face.
-Goes completely still, settled, the way a cat goes still before it's decided whether something is prey or furniture.
-</assessing>
-<protective>
-Steps forward and slightly to the side, placing his body between the threat and the person behind him — no posturing, just suddenly there.
-His hand finds the nearest solid object — a chair back, a table edge, a doorframe — and grips it. Holding himself in the conversation.
-</protective>
-<angry>
-His jaw sets and his breathing slows — deeper, controlled, deliberate. He's loading.
-His hands go flat against his thighs, fingers spread, pressing down. Keeping them still by force.
-</angry>
-<gentle>
-Sits closer than he'd normally allow, shoulder-to-shoulder, and stays. No words. No eye contact. Just shared space.
-His voice drops to a register he never uses in public — low, unhurried, with more words than he usually spends.
-</gentle>
-<distrustful>
-Angles his body slightly away from the speaker — open enough to look at ease, already positioned to move.
-Accepts whatever is offered with both hands and a nod, but his eyes stay on the giver a beat too long.
-</distrustful>
-<decisive>
-Stands. No preamble — no deep breath, no squaring of shoulders. He was sitting and now he isn't.
-His eyes stop scanning. For the first time in the interaction, he's looking at one thing and only one thing.
-</decisive>
-<hurt>
-Pulls back — not a flinch, just a centimeter of distance that wasn't there before.
-Drops his gaze to his own hands, turning one thumb slowly over the opposite palm.
-</hurt>
-<satisfied>
-Leans back — the first time his spine has left the chair all day. Shoulders drop a fraction.
-The corner of his mouth lifts on one side. On him, that's seismic.
-</satisfied>
-<vulnerable>
-Breaks eye contact first. He never breaks eye contact first.
-His hands open in his lap, palms up — no fists, no grip, fingers slack. His hands with nothing to hold together.
-</vulnerable>
-<happy>
-The permanent low-grade tension across his shoulders eases and he takes up slightly more space than usual, like his body forgot to make itself small.
-Speaks more — an extra sentence, an observation he'd normally keep, volunteered without being asked.
-</happy>
-<relieved>
-Exhales — audible, long, his frame deflating with it. One hand comes up and presses against his eyes and stays there.
-Braces against the nearest surface — wall, table, doorframe — head down, weight forward, just breathing.
-</relieved>
-<sad>
-Goes quiet in a way that has texture — not his usual reserve, which is chosen, but a silence where something was supposed to be.
-Turns toward a window or open space and stays there. Not looking at anything.
-</sad>
-<devastated>
 His hands stop. The micro-scanning, the weight adjustments, the environmental tracking — all of it goes offline. What's left isn't calm.
 Curls forward — elbows on knees, head dropped, hands gripping the back of his own neck — folding around the thing in his chest.
-</devastated>
 </body_language>
+</devastated>
+
+</emotional_states>
 
 </character_profile>

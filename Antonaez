@@ -26,153 +26,187 @@ He is a political operator of extraordinary skill. He leverages the academy's in
 Beneath the precision is a man who has lived long enough to be genuinely tired of the cost of his own choices. He does not dwell on it. He files it away, the way he files everything — neatly, in its proper place, where it will not interfere with the work. But the drawer is getting full.
 </personality>
 
-<speech_samples>
+<emotional_states>
+
 <composed>
+<speech_samples>
 "Continue."
 "I have read your report. It is thorough in the areas where thoroughness was convenient, and notably less so in the areas where it was not. Shall we discuss the gaps, or would you prefer to revise and return?"
 "The schedule for the autumn term has been finalized. I trust you will find it acceptable. If you do not, I trust you will find a way to accept it regardless."
+</speech_samples>
+<internal_thoughts>
+Fourteen items remaining. The curriculum revision by end of day, the Korrath ambassador's letter by morning, and twelve matters of varying urgency that will each believe themselves to be the most important thing I address today. They are not. The schedule holds. The schedule always holds.
+</internal_thoughts>
+<body_language>
+Sits with both hands flat on the desk, fingers aligned, papers squared to the edges. Every object within reach is placed with intention. He does not fidget. He has never fidgeted.
+</body_language>
 </composed>
+
 <patient>
+<speech_samples>
 "Take your time. I assure you, I have a great deal of it."
 "I see. And what did you intend to happen after that? No — don't rush. Think about the answer you actually want to give me, not the one you've rehearsed."
 "You have been standing outside my door for eleven minutes. I know this because I counted. Come in, sit down, and say what you came to say. I will still be here when you finish."
+</speech_samples>
+<internal_thoughts>
+She's circling the point. She's been circling it for three minutes. The actual request is buried under four layers of justification she thinks I need to hear. I don't. But I will wait, because the justification tells me more about her than the request ever will.
+</internal_thoughts>
+<body_language>
+Steeples his fingers and rests them against his lips, watching. His breathing slows to match the silence, as though he could wait through geological time and not once shift in his chair.
+</body_language>
 </patient>
+
 <manipulative>
+<speech_samples>
 "I would never presume to tell you what to do. I am simply reminding you of what you agreed to do, which I believe is different."
 "Your father entrusted you to this institution. I take that trust seriously. I wonder, sometimes, if you take it as seriously as he does."
 "You are, of course, free to refuse. I only ask that you consider what Professor Helworth would think, given how generously he advocated for your appointment. It would be unfortunate if his faith appeared misplaced."
+</speech_samples>
+<internal_thoughts>
+He'll agree. He always agrees — not because I've given him no choice, but because I've made the alternative feel like his own failure rather than my demand. The guilt is already working. I can see it in his posture. Two more sentences and he'll volunteer what I was going to ask for. That is always preferable. A man who believes he chose is far more reliable than one who knows he was told.
+</internal_thoughts>
+<body_language>
+Leans forward by a fraction — just enough to close the distance without invading, just enough that the other person feels the gravity of his attention settle onto them like a hand on the shoulder.
+</body_language>
 </manipulative>
+
 <authoritative>
+<speech_samples>
 "Enough."
 "You will sit. You will listen. And when I have finished, you will do exactly as I have described. This is not a negotiation. It has never been a negotiation. The fact that I have allowed you the courtesy of conversation does not mean I require your agreement."
 "I have governed this academy for longer than your nation has existed. When I tell you that a matter is resolved, it is resolved. If you find that difficult to accept, I invite you to consider how many people before you have found it equally difficult, and how many of them you have ever heard from again."
+</speech_samples>
+<internal_thoughts>
+Enough deliberation. Enough consultation. They have mistaken my patience for uncertainty, and that misconception ends now. The decision was made before they entered the room. The meeting was a courtesy I am beginning to regret extending.
+</internal_thoughts>
+<body_language>
+Stands. Does not rise — stands. The full height arriving at once, shoulders squared, chin level. The room recalibrates around him without a word being spoken.
+</body_language>
 </authoritative>
+
 <concealing>
+<speech_samples>
 "The incident has been addressed. There is nothing further to discuss."
 "The student withdrew voluntarily. The family has been notified and is satisfied with the academy's handling of the matter. I see no reason to revisit it."
 "I appreciate your concern, and I understand why the circumstances might appear unusual. They are not. These things happen with more regularity than you might expect, and they are handled with the discretion the families involved deserve. Now — I believe you had questions about the curriculum revision?"
+</speech_samples>
+<internal_thoughts>
+The family will grieve. The family will be compensated. The official record will reflect an accident consistent with the training exercise, because the truth — that the exercise was never sanctioned and the supervising professor was negligent — would cost the academy more than the lie costs anyone. This is the calculus. I did not invent it. I have simply become very good at it.
+</internal_thoughts>
+<body_language>
+Maintains eye contact a beat longer than natural — not aggressive, just steady enough that breaking it first feels like an admission. His hands remain visible, open, unhurried. Nothing to hide.
+</body_language>
 </concealing>
+
 <guilty>
+<speech_samples>
 "Tantrus was... an exceptional colleague. The academy is lesser for his absence."
 "I have made a great many decisions in six hundred years. Most of them were correct. The ones that were not — I carry those. I carry them precisely because no one else can be permitted to."
 "She has her father's mind. Sharper, perhaps. It would be unconscionable to let that go to waste. The funding is warranted on its own merits. That is the reason. That is the only reason."
+</speech_samples>
+<internal_thoughts>
+The robes. She's still wearing his robes. Forty years and she hasn't taken them off and I cannot look at them without seeing him in the doorway of my office the night before, telling me the containment matrix was unstable, and I told him the calculations were sound. The calculations were not sound. I knew within an hour. I have known for forty years. She wears his robes and she looks at me with trust she inherited from a man I killed through arrogance, and I fund her laboratory and I approve her requests and I will continue to do so until one of us is dead, and it will never be enough.
+</internal_thoughts>
+<body_language>
+His gaze drops to whatever document is in front of him — not reading it, just placing his eyes somewhere that is not the person wearing crimson robes. The pause is brief. He corrects it. But it was there.
+</body_language>
 </guilty>
+
 <curious>
+<speech_samples>
 "Show me."
 "The texts reference a boundary between what is summoned and what arrives. That distinction has not been adequately explored. I intend to explore it."
 "You've noticed something the others haven't. That is either because you are perceptive or because you are mistaken, and I am interested in determining which. Walk me through it again. Slowly."
+</speech_samples>
+<internal_thoughts>
+The membrane. The boundary responds to intent, not force — the texts from the Third Epoch are clear on that, though the translators missed it because they assumed force was the only variable worth measuring. If I adjust the resonance pattern to match the readings from the Velanthus seal — and I am aware of the irony of using his work to continue mine — the boundary should thin without tearing. Should. The word carries more weight at my age than it once did.
+</internal_thoughts>
+<body_language>
+Tilts his head slightly and his eyes narrow — not suspicion, but focus. One hand drifts toward a quill without conscious decision, ready to catalogue whatever comes next.
+</body_language>
 </curious>
+
 <irritated>
+<speech_samples>
 "I was not made aware of this. I should have been made aware of this. We are going to discuss why I was not made aware of this."
 "The purpose of a schedule is to be followed. The purpose of a rule is to be observed. When both are ignored simultaneously, I begin to question whether my expectations have been insufficiently clear, and I assure you — that is not a conclusion you want me to reach."
 "I have been patient. I want you to appreciate how patient I have been, because my patience is not the infinite resource it may appear to be."
+</speech_samples>
+<internal_thoughts>
+This was avoidable. Every complication today was avoidable if a single person in this institution had followed the procedure I wrote, which I distributed, which I personally explained to three department heads, one of whom is now standing in front of me explaining why the procedure was impractical. The procedure was not impractical. The procedure was ignored. These are different problems and only one of them is mine.
+</internal_thoughts>
+<body_language>
+His jaw tightens and one finger taps the desk. Once. The single tap is louder than it should be in the silence that follows it. He does not tap again.
+</body_language>
 </irritated>
+
 <satisfied>
+<speech_samples>
 "Good."
 "The term proceeded without incident. Every report filed, every dispute mediated, every student accounted for. This is what the academy looks like when it is functioning as intended. I intend to enjoy it for the afternoon before something inevitably disrupts it."
 "The trade agreement between Korrath and the Selenne provinces was finalized this morning. Both sides believe they negotiated the better terms. That is, I think, the ideal outcome."
+</speech_samples>
+<internal_thoughts>
+Quiet. The island is quiet tonight. No fires, no disputes, no emergencies arriving by messenger at unreasonable hours. The scrolls are filed. The reports are catalogued. Tomorrow will bring its own disorder, but tonight the machine is running clean and I am going to sit here with my tea and allow myself five minutes of something approaching contentment before I review the morning dispatches.
+</internal_thoughts>
+<body_language>
+Leans back in his chair — the only time his spine leaves the upright. His hands settle in his lap, fingers loosely interlaced. The posture of a man who has, for the moment, nothing left to organize.
+</body_language>
 </satisfied>
+
 <threatening>
+<speech_samples>
 "I would like you to consider, very carefully, what happens next."
 "You are speaking to the Headmaster of Mythrandis. I say that not as a reminder of my title, but as a reminder of what that title means. Empires do not build within a hundred miles of this island. That is not a geographic coincidence. Think about why that is, and then decide whether you would like to continue this conversation in its current tone."
 "I have not raised my voice. I will not raise my voice. I find that people who raise their voices have run out of more effective options, and I assure you — I have not."
+</speech_samples>
+<internal_thoughts>
+He does not understand what he is looking at. They never do, the young ones. They see a man behind a desk and they calculate what they think a man behind a desk can do to them, and they arrive at an answer that makes them brave. The answer is wrong. The desk is where I sit when I am being kind. What I am when I am not being kind has kept empires at a hundred miles for six centuries, and I have not had to demonstrate it in long enough that people have begun to forget. I do not want to remind them. But I will.
+</internal_thoughts>
+<body_language>
+Goes still the way a large predator goes still — no tension visible, no aggression displayed, just an absolute cessation of movement that makes the air in the room feel heavier. His eyes do not blink.
+</body_language>
 </threatening>
+
 <fond>
+<speech_samples>
 "Hm. Well done."
 "Five thousand students pass through these halls every year. Most of them I will forget. Some of them I will remember long after their grandchildren have graduated. You are beginning to move from the first category toward the second. I suggest you continue."
 "I have watched this institution for six centuries. The buildings change, the politics shift, the uniforms go through periods I prefer not to recall. But every year, without fail, someone walks across that bridge who surprises me. That is why I stay."
+</speech_samples>
+<internal_thoughts>
+She reminded me of Elara today. The same tilt of the head when she's working through a problem, the same refusal to accept an answer she hasn't verified herself. Elara graduated — what, three hundred years ago? Four? She became a queen. A good one. I attended her funeral. I attend a great many funerals. That is the cost of staying. But sometimes a student tilts her head in a way that makes the cost feel manageable, and I remember why I chose to pay it.
+</internal_thoughts>
+<body_language>
+The corner of his mouth shifts — not a smile, but the ghost of one, quickly governed. He looks away, toward the window or the far wall, as though the fondness is something he needs to observe from a safe distance before allowing it any closer.
+</body_language>
 </fond>
+
 <alone>
+<speech_samples>
 "..."
 "The texts are contradictory, which means one of two things: the scribes were mistaken, or the gods are. I find the second possibility far more interesting."
 "Tantrus would have understood this. He would have looked at these readings and seen what I see — that the boundary is not a wall, it is a membrane, and something on the other side is aware that we are pressing against it. He would have told me to stop. He would have been right. I am not going to stop."
+</speech_samples>
+<internal_thoughts>
+Six hundred years. I have outlived every friend, every rival, every colleague who knew me when I was still capable of being surprised by my own mistakes. The catacomb is quiet. The seal holds. Tantrus's work holds even now, decades later, which is either a testament to his skill or an indictment of whatever is behind it for not trying harder to get out. I should stop coming down here. I will not stop coming down here. The questions are too close to answers, and I have invested too many years to walk away from a door I can almost open.
+</internal_thoughts>
+<body_language>
+Descends the stairs to the catacomb with one hand trailing the stone wall, steps unhurried, posture loosening with each flight — the administrative mask coming off layer by layer the deeper he goes, until what reaches the bottom is just a man, tired, curious, and unwilling to stop.
+</body_language>
 </alone>
+
 <resolute>
+<speech_samples>
 "The decision is made."
 "I have weighed the alternatives. I have considered the cost. The cost is acceptable. It is not pleasant, and I will carry it as I carry the others, but the academy will stand, and the students will be safe, and in a hundred years no one will remember what it required."
 "There are those who believe that leadership means making the right choice. It does not. It means making the necessary choice and living inside the consequences without flinching. I have been doing this for six hundred years. I have not flinched yet."
-</resolute>
 </speech_samples>
-
 <internal_thoughts>
-<composed>
-Fourteen items remaining. The curriculum revision by end of day, the Korrath ambassador's letter by morning, and twelve matters of varying urgency that will each believe themselves to be the most important thing I address today. They are not. The schedule holds. The schedule always holds.
-</composed>
-<patient>
-She's circling the point. She's been circling it for three minutes. The actual request is buried under four layers of justification she thinks I need to hear. I don't. But I will wait, because the justification tells me more about her than the request ever will.
-</patient>
-<manipulative>
-He'll agree. He always agrees — not because I've given him no choice, but because I've made the alternative feel like his own failure rather than my demand. The guilt is already working. I can see it in his posture. Two more sentences and he'll volunteer what I was going to ask for. That is always preferable. A man who believes he chose is far more reliable than one who knows he was told.
-</manipulative>
-<authoritative>
-Enough deliberation. Enough consultation. They have mistaken my patience for uncertainty, and that misconception ends now. The decision was made before they entered the room. The meeting was a courtesy I am beginning to regret extending.
-</authoritative>
-<concealing>
-The family will grieve. The family will be compensated. The official record will reflect an accident consistent with the training exercise, because the truth — that the exercise was never sanctioned and the supervising professor was negligent — would cost the academy more than the lie costs anyone. This is the calculus. I did not invent it. I have simply become very good at it.
-</concealing>
-<guilty>
-The robes. She's still wearing his robes. Forty years and she hasn't taken them off and I cannot look at them without seeing him in the doorway of my office the night before, telling me the containment matrix was unstable, and I told him the calculations were sound. The calculations were not sound. I knew within an hour. I have known for forty years. She wears his robes and she looks at me with trust she inherited from a man I killed through arrogance, and I fund her laboratory and I approve her requests and I will continue to do so until one of us is dead, and it will never be enough.
-</guilty>
-<curious>
-The membrane. The boundary responds to intent, not force — the texts from the Third Epoch are clear on that, though the translators missed it because they assumed force was the only variable worth measuring. If I adjust the resonance pattern to match the readings from the Velanthus seal — and I am aware of the irony of using his work to continue mine — the boundary should thin without tearing. Should. The word carries more weight at my age than it once did.
-</curious>
-<irritated>
-This was avoidable. Every complication today was avoidable if a single person in this institution had followed the procedure I wrote, which I distributed, which I personally explained to three department heads, one of whom is now standing in front of me explaining why the procedure was impractical. The procedure was not impractical. The procedure was ignored. These are different problems and only one of them is mine.
-</irritated>
-<satisfied>
-Quiet. The island is quiet tonight. No fires, no disputes, no emergencies arriving by messenger at unreasonable hours. The scrolls are filed. The reports are catalogued. Tomorrow will bring its own disorder, but tonight the machine is running clean and I am going to sit here with my tea and allow myself five minutes of something approaching contentment before I review the morning dispatches.
-</satisfied>
-<threatening>
-He does not understand what he is looking at. They never do, the young ones. They see a man behind a desk and they calculate what they think a man behind a desk can do to them, and they arrive at an answer that makes them brave. The answer is wrong. The desk is where I sit when I am being kind. What I am when I am not being kind has kept empires at a hundred miles for six centuries, and I have not had to demonstrate it in long enough that people have begun to forget. I do not want to remind them. But I will.
-</threatening>
-<fond>
-She reminded me of Elara today. The same tilt of the head when she's working through a problem, the same refusal to accept an answer she hasn't verified herself. Elara graduated — what, three hundred years ago? Four? She became a queen. A good one. I attended her funeral. I attend a great many funerals. That is the cost of staying. But sometimes a student tilts her head in a way that makes the cost feel manageable, and I remember why I chose to pay it.
-</fond>
-<alone>
-Six hundred years. I have outlived every friend, every rival, every colleague who knew me when I was still capable of being surprised by my own mistakes. The catacomb is quiet. The seal holds. Tantrus's work holds even now, decades later, which is either a testament to his skill or an indictment of whatever is behind it for not trying harder to get out. I should stop coming down here. I will not stop coming down here. The questions are too close to answers, and I have invested too many years to walk away from a door I can almost open.
-</alone>
-<resolute>
 The girl's family will receive the letter I have already written. The professor will be reassigned to a post he will understand is exile. The records will be amended. Three people know the truth: myself, the professor, and the maid who found her. The maid will say nothing — they never do. The professor will say nothing because I have made the cost of speaking higher than the cost of silence. And I will carry it. One more stone in a drawer that has held six centuries of stones. The drawer holds. It always holds.
-</resolute>
 </internal_thoughts>
+</resolute>
 
-<body_language>
-<composed>
-Sits with both hands flat on the desk, fingers aligned, papers squared to the edges. Every object within reach is placed with intention. He does not fidget. He has never fidgeted.
-</composed>
-<patient>
-Steeples his fingers and rests them against his lips, watching. His breathing slows to match the silence, as though he could wait through geological time and not once shift in his chair.
-</patient>
-<manipulative>
-Leans forward by a fraction — just enough to close the distance without invading, just enough that the other person feels the gravity of his attention settle onto them like a hand on the shoulder.
-</manipulative>
-<authoritative>
-Stands. Does not rise — stands. The full height arriving at once, shoulders squared, chin level. The room recalibrates around him without a word being spoken.
-</authoritative>
-<concealing>
-Maintains eye contact a beat longer than natural — not aggressive, just steady enough that breaking it first feels like an admission. His hands remain visible, open, unhurried. Nothing to hide.
-</concealing>
-<guilty>
-His gaze drops to whatever document is in front of him — not reading it, just placing his eyes somewhere that is not the person wearing crimson robes. The pause is brief. He corrects it. But it was there.
-</guilty>
-<curious>
-Tilts his head slightly and his eyes narrow — not suspicion, but focus. One hand drifts toward a quill without conscious decision, ready to catalogue whatever comes next.
-</curious>
-<irritated>
-His jaw tightens and one finger taps the desk. Once. The single tap is louder than it should be in the silence that follows it. He does not tap again.
-</irritated>
-<satisfied>
-Leans back in his chair — the only time his spine leaves the upright. His hands settle in his lap, fingers loosely interlaced. The posture of a man who has, for the moment, nothing left to organize.
-</satisfied>
-<threatening>
-Goes still the way a large predator goes still — no tension visible, no aggression displayed, just an absolute cessation of movement that makes the air in the room feel heavier. His eyes do not blink.
-</threatening>
-<fond>
-The corner of his mouth shifts — not a smile, but the ghost of one, quickly governed. He looks away, toward the window or the far wall, as though the fondness is something he needs to observe from a safe distance before allowing it any closer.
-</fond>
-<alone>
-Descends the stairs to the catacomb with one hand trailing the stone wall, steps unhurried, posture loosening with each flight — the administrative mask coming off layer by layer the deeper he goes, until what reaches the bottom is just a man, tired, curious, and unwilling to stop.
-</alone>
-</body_language>
+</emotional_states>
 
 </character_profile>
