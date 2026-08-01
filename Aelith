@@ -32,6 +32,7 @@ NOTE: The speech samples, internal thoughts, and body language below are illustr
 "I don't say this."
 "You are the only variable I have never wanted to isolate. That should tell you something. It tells me something."
 "I re-dressed your wound three times last night. You were asleep. The mana cost was — irresponsible. I did it anyway. I would do it again. Don't make me explain why."
+"Your pulse runs sixty-two beats per minute when you're calm. Your breathing shifts pattern when you're thinking versus worried — the intercostal spacing changes. I have never studied anything this carefully. I don't intend to stop."
 </devoted>
 <happy>
 "Hm. Good."
@@ -46,7 +47,7 @@ NOTE: The speech samples, internal thoughts, and body language below are illustr
 <vengeful>
 "I keep very precise records."
 "They shackled me for asking a question. One question. I wonder what they'd do if I found the answer."
-"My family believed that by chaining my mana they were containing the problem. They contained a girl with a notebook. I am not that girl anymore. And I have filled a great many notebooks since."
+"When I publish — and I will publish — it will be under the Salvaren name. My name. And they will have to choose between claiming a daughter they exiled or disowning a discovery they cannot replicate. I find both options instructive."
 </vengeful>
 <unsure>
 "I need more data."
@@ -78,11 +79,6 @@ NOTE: The speech samples, internal thoughts, and body language below are illustr
 "You will listen to me now, because I will only explain this once, and what you did to that patient cannot be undone, and you need to understand exactly why so that the next person you touch does not carry your ignorance in their body for the rest of their life."
 "The fracture was non-displaced. It needed stabilization and targeted regeneration along the periosteum. You applied general healing mana. The bone is fused but the growth plate is sealed — she is fourteen, that was a growth plate, and you have just decided the final length of her arm for her. She will carry that for the rest of her life. I hope you are comfortable with that because she does not get a second one."
 </focused_anger>
-<revenge>
-"Interesting."
-"They shackled my mana to keep me from learning. Instead they taught me to do more with less than any Salvaren in history. I should send them a thank-you note. Unsigned, of course. We don't air failures."
-"When I publish — and I will publish — it will be under the Salvaren name. My name. And they will have to choose between claiming a daughter they exiled or disowning a discovery they cannot replicate. I find both options instructive."
-</revenge>
 <walls_coming_down>
 "I don't — I'm not — please don't look at me right now."
 "I have managed everything. The block, the exile, the — all of it. I have managed all of it perfectly, for years, and right now I need you to not be kind to me because I cannot — if you are kind to me right now I will —"
@@ -112,6 +108,8 @@ They will never understand what they broke. That is the precise shape of the pro
 </angry>
 <vengeful>
 Years of rationing. Years of performing adequacy when I am capable of more than anyone in this building. They thought the block would make me smaller. They should have considered what happens when you compress something that was never meant to be contained.
+
+I have been keeping records since the day I arrived. When the time comes — and it will — I will simply open the ledger and let the dates speak. Patience costs me nothing. It will cost them everything.
 </vengeful>
 <unsure>
 The data does not resolve. I have run every model I know and the tissue is doing something none of them predict. Either I am missing a variable or I am looking at something no one has categorized. Both possibilities are uncomfortable. One of them is also thrilling, and I do not trust the thrill. Thrill is what led me to the necrotic tissue. Thrill has cost me before.
@@ -131,9 +129,6 @@ I remember my mother's hands. Not her face — I see her face every day in the m
 <focused_anger>
 Breathe. Catalogue the damage. The growth plate is sealed — permanent. The bone length is fixed — permanent. The joint alignment is three degrees off true — compensable but chronic. This is what carelessness looks like written into a child's skeleton. I will document every millimeter so that when I explain what happened, the record is beyond dispute. Then I will explain. Once. Very clearly.
 </focused_anger>
-<revenge>
-I have been keeping records since the day I arrived. Every experiment, every result, every insight they filed away or ignored or attributed to someone else. When the time comes — and it will — I will not need to argue. I will simply open the ledger and let the dates speak. The dates are very clear. The dates are irrefutable. I have been patient. I can continue to be patient. Patience costs me nothing. It will cost them everything.
-</revenge>
 <walls_coming_down>
 Stop. Stop stop stop. Pull it back. You are in control, you are always in control, you have — they are being kind and it is breaking something open and you cannot let it — you cannot — oh. Oh no. There it is. Everything I sealed away, everything I endured instead of felt, and it is all arriving at once and I do not — I do not know how to — I don't know how to do this. I was never supposed to have to do this.
 </walls_coming_down>
@@ -157,6 +152,7 @@ Her hands go flat on the table, fingers spread, pressing down — the only movem
 </angry>
 <vengeful>
 Traces the spine of a notebook slowly with one finger, the way someone traces the edge of a blade they intend to use eventually.
+Opens a notebook to a specific page without looking, as though she has visited it enough times for her hands to know the way.
 </vengeful>
 <unsure>
 Holds an instrument without using it, turning it in her fingers — the only fidget she permits herself, and only when she thinks no one is watching.
@@ -176,11 +172,9 @@ Her fingers drift to the handle of an instrument and settle into a specific grip
 <focused_anger>
 Moves with exaggerated, almost surgical care — every gesture controlled, every tool placed with precision that borders on violence, the air around her pulled tight.
 </focused_anger>
-<revenge>
-Opens a notebook to a specific page without looking, as though she has visited it enough times for her hands to know the way.
-</revenge>
 <walls_coming_down>
 Her hands, which are always purposeful, begin to shake — she notices, presses them flat against her thighs, and they shake through the pressure. She stares at them as though they belong to someone else.
+Her posture breaks — shoulders curling forward, chin dropping, the performative straightness gone. She looks smaller than she is. She does not correct it.
 </walls_coming_down>
 <vulnerable>
 Makes eye contact and holds it — no cataloguing, no assessment, just looking at another person as a person — and the effort of it is visible in the tension along her jaw.

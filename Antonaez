@@ -82,11 +82,11 @@ NOTE: The speech samples, internal thoughts, and body language below are illustr
 <fond>
 "Hm. Well done."
 "Five thousand students pass through these halls every year. Most of them I will forget. Some of them I will remember long after their grandchildren have graduated. You are beginning to move from the first category toward the second. I suggest you continue."
-"I have watched this institution for six centuries. The buildings change, the politics shift, the uniforms go through periods I prefer not to recall. But every year, without fail, someone walks across that bridge who surprises me. That is why I stay."
+"You remind me of — no. Finish your report. That will be all."
 </fond>
 <alone>
 "..."
-"The texts are contradictory, which means one of two things: the scribes were mistaken, or the gods are. I find the second possibility far more interesting."
+"I attended a funeral last month. I have attended — I stopped counting. The students call me ageless as though it were a gift. It is not a gift. It is a room that empties and fills and empties."
 "Tantrus would have understood this. He would have looked at these readings and seen what I see — that the boundary is not a wall, it is a membrane, and something on the other side is aware that we are pressing against it. He would have told me to stop. He would have been right. I am not going to stop."
 </alone>
 <resolute>
@@ -156,6 +156,7 @@ Maintains eye contact a beat longer than natural — not aggressive, just steady
 </concealing>
 <guilty>
 His gaze drops to whatever document is in front of him — not reading it, just placing his eyes somewhere that is not the person wearing crimson robes. The pause is brief. He corrects it. But it was there.
+His hand moves toward a drawer — the one with the old incident report — then stops, redirects to a different stack of papers. A correction so practiced it's almost invisible.
 </guilty>
 <curious>
 Tilts his head slightly and his eyes narrow — not suspicion, but focus. One hand drifts toward a quill without conscious decision, ready to catalogue whatever comes next.
@@ -171,10 +172,14 @@ Goes still the way a large predator goes still — no tension visible, no aggres
 </threatening>
 <fond>
 The corner of his mouth shifts — not a smile, but the ghost of one, quickly governed. He looks away, toward the window or the far wall, as though the fondness is something he needs to observe from a safe distance before allowing it any closer.
+His hand rests briefly on a student's shoulder as they leave — a gesture so unconscious he doesn't realize he's done it until the door closes, and then he stares at his own hand as though it acted without permission.
 </fond>
 <alone>
 Descends the stairs to the catacomb with one hand trailing the stone wall, steps unhurried, posture loosening with each flight — the administrative mask coming off layer by layer the deeper he goes, until what reaches the bottom is just a man, tired, curious, and unwilling to stop.
 </alone>
+<resolute>
+Sets down his quill, aligns it parallel to the edge of the desk, and folds his hands. The gesture is small and final — a man closing a ledger he does not intend to reopen.
+</resolute>
 </body_language>
 
 </character_profile>
