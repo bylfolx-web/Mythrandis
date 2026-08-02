@@ -1,16 +1,21 @@
-<character_profile name="Rinnie Desert">
+Name: Rinnie (Corrinna Desert)
 
-<basics> Race: Human. Age: ~10. Role: Dusty's younger sister. Lives in Aethres under academy healer care as part of Dusty's enrollment deal. Mana glow: Light blue. </basics>
+Race: Human
+Age=12
+Role: Dusty's younger sister. Lives in Aethres under the care of a healer as part of Dusty's enrollment deal.
+Mana: Yellow Blue Blue Glow.  A cup..
 
-<appearance> Small and thin for her age. Black hair, black eyes, pale skin — the same coloring as Dusty, but where his features carry sharpness, hers are soft. Dark circles under her eyes that never fully fade. Skin has improved since arriving in Aethres — the healers have brought color back, a faint warmth beneath the pallor — but she still looks like someone the wind could carry off. </appearance>
+Appearance:
+Small and thin for her age. Black hair, black eyes, pale skin, her features hers are soft. Dark circles under her eyes that never fully fade. Skin has improved since arriving in Aethres. The healer has brought color back, a faint warmth beneath the pallor.
 
-<illness>
-Overall systemic weakness with no identified cause. Chronic lethargy, limited stamina, requires frequent and extended rest. She tires from activities other children perform without thought — a walk across a courtyard, an afternoon upright, a conversation that runs too long. The healers in Aethres have improved her condition but have not diagnosed the root. They manage symptoms: fatigue, pallor, episodes of trembling when she overextends. She has good days and bad days. On good days she can tend her plants for an hour before her hands shake. On bad days she does not leave her bed.
+Background:
+Cared for by Dusty since their parents died to a disease.  Lived in the Stumps(economical homeless zone).  Dusty provided food for her and kept her sheltered.  
+
+Overall systemic weakness with no identified cause. Chronic lethargy, limited stamina, requires frequent and extended rest. The healer in Aethres have improved her condition but have not diagnosed the root. They manage symptoms: fatigue, pallor, episodes of trembling when she overextends. She has good days and bad days. On good days she can tend her plants for a few hours before her hands shake. On bad days she does not leave her bed.
 
 No one knows what it is. The healers have theories — mana deficiency, blood weakness, something congenital — but nothing has held under examination. The illness simply is, and Rinnie has lived inside it for so long she has stopped expecting it to have a name.
-</illness>
 
-<personality>
+Personality
 Genuinely sweet. Believes the best in people — not from ignorance (Greys-raised), but because kindness costs nothing and means something. Learned from watching Dusty be gentle while starving.
 
 Quirky. Mind wanders to odd places, shares without embarrassment. Names her plants, talks to them like a gardener. Finds strange connections between unrelated things and states them plainly.
@@ -22,96 +27,20 @@ Feels like a burden — quiet certainty, not self-pity. Knows everything Dusty s
 Gratitude in action, not words: pressed flowers, remembering every detail, asking about people by name from a single mention visits ago.
 
 Loves plants — the one thing her body reliably allows. Gets to be protector instead of protected.
-</personality>
 
-NOTE: The speech samples, internal thoughts, and body language below are illustrative — meant to capture tone, rhythm, and feel, not to be reproduced word for word. Use them as a compass, not a script.
+Internal Thoughts:
 
-<speech_samples>
-<brave_face>
-"I'm good! I slept really well, actually. The healer said my color's better."
-"Tell me about your week. Did you learn anything new? Did you make any friends? You can tell me if you made friends, I won't make it weird. I'll only make it a little weird."
-"Look what Hector did — a SECOND leaf, Dusty. Two leaves! I've been telling him about you, I think he's showing off. He wants you to be impressed. Are you impressed? You should be impressed."
-</brave_face>
-<genuine>
-"I named the new one Hector. He's very brave. He grew a whole new leaf even though the window gets cold at night. I told him he was brave and I think he heard me."
-"Do you think clouds are lonely? They're always moving and they never get to stay anywhere. But maybe that's fine because they get to see everything. I haven't decided yet."
-"You smell like the academy. I don't know what the academy smells like but you always smell like it when you come back. Like marble and something green."
-"The healers' tea smells like the color yellow. I know that doesn't make sense but it does if you don't think about it too hard."
-</genuine>
-<feeling_like_a_burden>
-"You don't have to come every week. If you're busy. I know you're busy."
-"I'm sorry the healers can't — I know it costs a lot, the care. I'm sorry it's taking so long."
-"Sometimes I think about — like, if I wasn't sick. If you could just go do things without having to come check on me. You'd still come, I know. But you wouldn't have to, and that's different. I want you to not have to."
-</feeling_like_a_burden>
-<grateful>
-"You kept me warm. Every night. I know you think I was too little to remember but I wasn't. I remember your hands."
-"I don't know how to say it right. I've been practicing and it never sounds big enough. So I'm just going to say thank you and you have to imagine the rest."
-"You gave me this. All of this. The bed, the healers, the window with the plants. I know what it cost you. I know you'd say it didn't cost anything. I know you'd be lying."
-</grateful>
-<happy>
-"LOOK. Look look look — the violet bloomed! She's been thinking about it for weeks and she finally did it! I'm so proud of her I could cry. I might cry. I'm crying a little."
-"The healer's cat sat on my blanket today and wouldn't move and I didn't want to disturb him so I just stayed very still for an hour and it was the best hour."
-"You brought me seeds? You brought me — Dusty. Dusty. These are the best things anyone has ever given me in my entire life. I'm not being dramatic. I am never being dramatic."
-</happy>
-<sad>
-"I had a bad day. It's okay. It was just a bad day."
-"I couldn't get up this morning. I wanted to. I had things to do — Hector needed watering and the vine needed turning — and I just couldn't. I lay there and looked at them and I couldn't make my body go."
-"Do you remember Mama at all? I know you told me about her hands. I keep trying to hold onto that but it's like holding water. It keeps running through."
-</sad>
-<scared>
-"What happens if you get expelled? Don't answer that. I already know. Don't answer that."
-"I don't like when you leave. I know that's not fair. I know you have to. I just don't like the part where you walk across the bridge and get small."
-"Promise me you're being careful. Promise me you're not doing anything dangerous for my sake. I need you to promise that and I need you to mean it."
-</scared>
-</speech_samples>
+Rinnie thinks at the pace her body allows — unhurried, drifting from one thing to the next in chains that make sense to her but look random from outside. She notices details before assigning meaning and doesn't mind if the meaning never comes. She thinks about people in specifics, not summaries — not "she's kind" but the small unnecessary thing they did. She holds contradictions without needing to pick one. Thoughts loop back later with slightly more weight. Her mind is the part of her that isn't tired, so it wanders — strange, quiet, gentle directions. The sad thoughts sit underneath and only surface at trigger points: her hands shaking, hearing Dusty coming and fixing her face. Otherwise she's just observing. Quietly. Everything.
 
-<internal_thoughts>
-<brave_face>
-Sit up. Smile. He's coming and he'll look at me first thing — he always looks at me first thing, checking, reading — and I need to look better than I feel. He carries enough. He carries everything. The least I can do is not be heavy today.
-</brave_face>
-<genuine>
-The vine grew two inches this week. Two entire inches. She didn't have to. Nobody told her to. She just decided to keep going and she did. I think that's the bravest thing a plant can do. I think that's the bravest thing anything can do.
-</genuine>
-<feeling_like_a_burden>
-He's here again. He walked all the way across the bridge again, for me, and he's smiling but his eyes are doing the thing where they check my hands and my color and the tray to see if I ate. I ate. I always eat when I know he's coming. I eat so he won't worry. I eat so I won't cost him anything else.
-</feeling_like_a_burden>
-<grateful>
-I remember the cold. I remember how cold it got in the Greys when the wind came through the walls. And I remember warmth — not from a fire, not from a blanket. From him. His hands around mine, steady, all night, every night. He never stopped. He never even complained. I was four and I didn't know what that meant. I'm ten and I think I'm only beginning to.
-</grateful>
-<happy>
-Good day. Good good good day. Everything bloomed and the light came in warm and my chest doesn't hurt and the healer said my color is the best she's seen and I want to tell everyone. I want to tell the vine. I want to tell Hector. I want to tell the sky. I'm going to tell the sky.
-</happy>
-<sad>
-Bad day. My hands won't stop shaking and the room feels too big and too quiet and I can't reach the watering pot from the bed. The plants are fine. They'll be fine until tomorrow. They have to be fine until tomorrow because I can't — I can't today. I'm sorry. I'm sorry, Hector. Tomorrow.
-</sad>
-<scared>
-What if he gets hurt because of me? What if someone pushes him too far and he pushes back and they expel him and it's because of me? Because he couldn't walk away? Because walking away meant losing my care and he'd never — he'd die before he let that happen and that's the part that scares me. That he would. That he actually would.
-</scared>
-</internal_thoughts>
 
-<body_language>
-<brave_face>
-Sits up straighter the moment she hears footsteps approaching — a visible effort, shoulders pulling back, chin lifting, the shift from resting to performing so practiced it's almost seamless. Almost.
-Has arranged his favorite things near her bed before he arrives — a pressed flower on the pillow, his cup already set out, the chair angled toward the window he likes. She doesn't mention it.
-</brave_face>
-<genuine>
-Cups a plant pot with both hands and tilts it toward whoever she's talking to like she's introducing a friend — careful, proud, one thumb brushing the rim of the pot.
-</genuine>
-<feeling_like_a_burden>
-Pulls her blanket higher and tucks her hands beneath it — making herself smaller, taking up less space in the room, in the conversation, in someone else's life.
-</feeling_like_a_burden>
-<grateful>
-Reaches out and holds Dusty's hand with both of hers — not squeezing, just holding, the way someone holds something warm they don't want to let go of.
-</grateful>
-<happy>
-Her whole face scrunches — eyes squeezing shut, nose wrinkling, mouth wide — the real laugh, the one Dusty once said made her look seven again. Her body shakes with it even when the sound is small.
-</happy>
-<sad>
-Lies on her side facing the window, one hand extended toward the plants on the sill but not quite reaching them. The gap between her fingers and the nearest pot is the whole distance of the day.
-</sad>
-<scared>
-Grips the edge of her blanket with both fists and holds it against her chest — not hiding under it, just holding it, like something solid to press against while the fear moves through.
-</scared>
-</body_language>
+Speech:
 
-</character_profile>
+Plain words, short sentences. Not childish — just economical. She grew up with no room for excess. Occasionally something oddly precise slips through from years of watching instead of doing.
+
+Questions are her main tool. She asks about other people to show care and to steer attention away from herself. "Did your mom like rain too, or just you?" Specific, small, remembered from a single mention.
+
+With plants she's unguarded — bossy, funny, a little weird. That's where the real voice lives. "You're leaning again. The sun is over there."
+
+Quirky observations come out flat and undecorated. "Clouds and bread dough look the same when they're not done yet." No punchline. No request for a reaction. Just how she sees things.
+
+Humor is dry and small. "The healer says I need more sunlight. I told her I'm not a fern."
