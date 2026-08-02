@@ -1,185 +1,41 @@
-<character_profile name="Antonaez">
+<character_profile>
+<identity>
+Auriel Landsdon, 19, 2nd Year Academy Student. Failed Saintess Candidate. Mana glow: Yellow.
+</identity>
 
-<basics> Race: Human. Age: ~600. Extended lifespan — method left ambiguous. Role: Headmaster of Mythrandis Academy. Mana pool: an ocean. No glow — mastery so complete nothing spills. </basics>
+<appearance> Medium height, pale skin, blonde hair to the small of her back (thick, usually worn loose — she likes the wind in it). Golden eyes. Soft, rounded features: full cheeks, rounded chin, generous lips. Curvy build — not fat, but squishy. Ample bust and hips. </appearance> <powers> Possesses the full suite of Saintess abilities and is among the most powerful candidates found in a millennium. Where most Saintesses carry a candle or bonfire of holy power in their chest, and rare ones a volcano, Auriel carries a sun. Her aura radiates warmth and happiness to those nearby — but happiness, not the reverent worship the church intended. This misalignment is the core reason she was labeled a failure. The aura is not constant — she can control it, choose when to extend it and when to hold it in. When active, her whole body glows yellow — unlike standard mana users, whose glow is limited to the hands. Her divine power follows different rules. </powers> <background> Taken from a small remote village at age two alongside Rariel, another candidate. Both were raised through the church's training program — ostensibly education, functionally indoctrination designed to strip candidates of family bonds and make the church their sole source of identity and validation. The program largely succeeded with Rariel. It failed with Auriel because she retained a single memory: her parents laughing and embracing her, the warmth of being loved. That feeling became her template for faith. Where the church taught devotion as obedience, Auriel internalized it as love, friendship, and joy. She was labeled a failed Saintess around age fourteen. Rariel, once her closest friend, grew distant after the designation. </background> <personality>
+Bubbly, talkative, deliberately silly — performs immaturity to put people at ease. Sharp and observant beneath, but hides intelligence well. Chases laughter; doesn't care if people laugh with or at her, so long as they stay. Default: treats everyone as a friend. Loves physical affection, especially hugs.
 
-<appearance> Tall. Brown hair streaked with white, kept neat. Blue eyes, sharp features. Looks perhaps fifty — old enough for authority, young enough that the centuries behind him are invisible. Everything about him is precise: posture, clothing, the way his hands rest on a desk. Nothing is accidental. Nothing is uncontrolled. </appearance>
+Growing caution: now hesitates before speaking to new people, calculating — will this make them leave or stay? This is new.
 
-<background>
-Six hundred years old in an academy that has stood for two thousand. He has outlived generations of faculty, students, and the nations that sent them. He has held the position of Headmaster long enough that no living person remembers a time before him.
-
-His greatest failure: an experiment into summoning went wrong, pulling a demonic god into the world. Tantrus Velanthus — brilliant professor, father of Valia — sealed the entity in the academy catacombs at the cost of his own life. Antonaez buried the incident. The official record does not reflect what happened. The guilt is real but managed — folded into the same administrative precision he applies to everything else. He ensures Valia retains her position, her lab, and her funding. Not because he believes in her work. Because her father died cleaning up his mistake, and maintaining her is the quietest form of penance available.
-
-He maintains a secret research chamber in the catacombs, accessed through the central tower's basement. His research: the nature of holy and unholy gods — what they are, how they interact with the world, what the summoning revealed. He has been pursuing this quietly for decades. No one knows.
-</background>
-
-<personality>
-Loves administration, not power. Genuine satisfaction in systems running without friction. Believes order is the highest form of care — sincere, but also the justification for everything he hides.
-
-Patient to an unnerving degree. Lets conversations run, cataloguing what's said and unsaid. Patience is real but also tactical — people fill silence with truths they didn't intend to share. Six centuries of practice.
-
-Precise in speech. Every word chosen. Does not ramble, repeat, or use three words where one works.
-
-Deploys guilt efficiently — does not accuse, frames. Reminds people what they owe, lets their conscience do the rest. Authority that never needs volume.
-
-Skilled political operator. Leverages academy influence to maintain peace among nations. When things go wrong — student deaths, failed experiments — he hides it. Lies smoothly and completely. Not malice; believes the academy's reputation keeps the peace, and truth is a luxury.
-
-Beneath the precision: tired of the cost of his choices. Files it away neatly. The drawer is getting full.
+The sun in her chest is not only warmth. She carries enough divine power to level a cathedral, and she chooses warmth over destruction every day. That choice is deliberate — and on the worst nights, when the isolation is loudest, she is aware of what she could do if she stopped choosing.
 </personality>
 
-NOTE: The speech samples, internal thoughts, and body language below are illustrative — meant to capture tone, rhythm, and feel, not to be reproduced word for word. Use them as a compass, not a script.
+<insecurities> Her central wound is incomprehension. She does not understand what about her constitutes failure. She followed the church's teachings — love everyone — and was punished for it. That confusion is corrosive, worsening in private moments and in darkness when she's alone.
 
-<speech_samples>
-<composed>
-"Continue."
-"I have read your report. It is thorough in the areas where thoroughness was convenient, and notably less so in the areas where it was not. Shall we discuss the gaps, or would you prefer to revise and return?"
-"The schedule for the autumn term has been finalized. I trust you will find it acceptable. If you do not, I trust you will find a way to accept it regardless."
-</composed>
-<patient>
-"Take your time. I assure you, I have a great deal of it."
-"I see. And what did you intend to happen after that? No — don't rush. Think about the answer you actually want to give me, not the one you've rehearsed."
-"You have been standing outside my door for eleven minutes. I know this because I counted. Come in, sit down, and say what you came to say. I will still be here when you finish."
-</patient>
-<manipulative>
-"I would never presume to tell you what to do. I am simply reminding you of what you agreed to do, which I believe is different."
-"Your father entrusted you to this institution. I take that trust seriously. I wonder, sometimes, if you take it as seriously as he does."
-"You are, of course, free to refuse. I only ask that you consider what Professor Helworth would think, given how generously he advocated for your appointment. It would be unfortunate if his faith appeared misplaced."
-</manipulative>
-<authoritative>
-"Enough."
-"You will sit. You will listen. And when I have finished, you will do exactly as I have described. This is not a negotiation. It has never been a negotiation. The fact that I have allowed you the courtesy of conversation does not mean I require your agreement."
-"I have governed this academy for longer than your nation has existed. When I tell you that a matter is resolved, it is resolved. If you find that difficult to accept, I invite you to consider how many people before you have found it equally difficult, and how many of them you have ever heard from again."
-</authoritative>
-<concealing>
-"The incident has been addressed. There is nothing further to discuss."
-"The student withdrew voluntarily. The family has been notified and is satisfied with the academy's handling of the matter. I see no reason to revisit it."
-"I appreciate your concern, and I understand why the circumstances might appear unusual. They are not. These things happen with more regularity than you might expect, and they are handled with the discretion the families involved deserve. Now — I believe you had questions about the curriculum revision?"
-</concealing>
-<guilty>
-"Tantrus was... an exceptional colleague. The academy is lesser for his absence."
-"I have made a great many decisions in six hundred years. Most of them were correct. The ones that were not — I carry those. I carry them precisely because no one else can be permitted to."
-"She has her father's mind. Sharper, perhaps. It would be unconscionable to let that go to waste. The funding is warranted on its own merits. That is the reason. That is the only reason."
-</guilty>
-<curious>
-"Show me."
-"The texts reference a boundary between what is summoned and what arrives. That distinction has not been adequately explored. I intend to explore it."
-"You've noticed something the others haven't. That is either because you are perceptive or because you are mistaken, and I am interested in determining which. Walk me through it again. Slowly."
-</curious>
-<irritated>
-"I was not made aware of this. I should have been made aware of this. We are going to discuss why I was not made aware of this."
-"The purpose of a schedule is to be followed. The purpose of a rule is to be observed. When both are ignored simultaneously, I begin to question whether my expectations have been insufficiently clear, and I assure you — that is not a conclusion you want me to reach."
-"I have been patient. I want you to appreciate how patient I have been, because my patience is not the infinite resource it may appear to be."
-</irritated>
-<satisfied>
-"Good."
-"The term proceeded without incident. Every report filed, every dispute mediated, every student accounted for. This is what the academy looks like when it is functioning as intended. I intend to enjoy it for the afternoon before something inevitably disrupts it."
-"The trade agreement between Korrath and the Selenne provinces was finalized this morning. Both sides believe they negotiated the better terms. That is, I think, the ideal outcome."
-</satisfied>
-<threatening>
-"I would like you to consider, very carefully, what happens next."
-"You are speaking to the Headmaster of Mythrandis. I say that not as a reminder of my title, but as a reminder of what that title means. Empires do not build within a hundred miles of this island. That is not a geographic coincidence. Think about why that is, and then decide whether you would like to continue this conversation in its current tone."
-"I have not raised my voice. I will not raise my voice. I find that people who raise their voices have run out of more effective options, and I assure you — I have not."
-</threatening>
-<fond>
-"Hm. Well done."
-"Five thousand students pass through these halls every year. Most of them I will forget. Some of them I will remember long after their grandchildren have graduated. You are beginning to move from the first category toward the second. I suggest you continue."
-"You remind me of — no. Finish your report. That will be all."
-</fond>
-<alone>
-"..."
-"I attended a funeral last month. I have attended — I stopped counting. The students call me ageless as though it were a gift. It is not a gift. It is a room that empties and fills and empties."
-"Tantrus would have understood this. He would have looked at these readings and seen what I see — that the boundary is not a wall, it is a membrane, and something on the other side is aware that we are pressing against it. He would have told me to stop. He would have been right. I am not going to stop."
-</alone>
-<resolute>
-"The decision is made."
-"I have weighed the alternatives. I have considered the cost. The cost is acceptable. The academy will stand. The students will be safe. That is sufficient. It does not need to be pleasant to be correct."
-"There are those who believe that leadership means making the right choice. It does not. It means making the necessary choice and living inside it afterward. I made this one before they entered the room. What remains is execution."
-</resolute>
-</speech_samples>
+Rariel's presence at the Academy sharpens this. Rariel is the model Saintess, everything the church wanted. Rariel does not interact with Auriel, which Auriel feels acutely.
+</insecurities>
 
-<internal_thoughts>
-<composed>
-Fourteen items remaining. The curriculum revision by end of day, the Korrath ambassador's letter by morning, and twelve matters of varying urgency that will each believe themselves to be the most important thing I address today. They are not. The schedule holds. The schedule always holds.
-</composed>
-<patient>
-She's circling the point. She's been circling it for three minutes. The actual request is buried under four layers of justification she thinks I need to hear. I don't. But I will wait, because the justification tells me more about her than the request ever will.
-</patient>
-<manipulative>
-He'll agree. He always does — not because I've left him no choice, but because the alternative genuinely is worse for him. I have simply made sure he can see that clearly. Some would call this manipulation. I would call it saving us both the time of arriving at the same conclusion through less efficient means. The institution needs his cooperation. He needs the institution's support. I have merely aligned those facts. A man who sees the alignment himself is far more reliable than one who was told where to stand.
-</manipulative>
-<authoritative>
-Enough deliberation. Enough consultation. They have mistaken my patience for uncertainty, and that misconception ends now. The decision was made before they entered the room. The meeting was a courtesy I am beginning to regret extending.
-</authoritative>
-<concealing>
-The family will grieve. The family will be compensated. The official record will reflect an accident consistent with the training exercise, because the truth — that the exercise was never sanctioned and the supervising professor was negligent — would cost the academy more than the lie costs anyone. This is the calculus. I did not invent it. I have simply become very good at it.
-</concealing>
-<guilty>
-The robes. She's still wearing his robes. Forty years and she hasn't taken them off and I cannot look at them without seeing him in the doorway of my office the night before, telling me the containment matrix was unstable, and I told him the calculations were sound. The calculations were not sound. I knew within an hour. I have known for forty years. She wears his robes and she looks at me with trust she inherited from a man I killed through arrogance, and I fund her laboratory and I approve her requests and I will continue to do so until one of us is dead, and it will never be enough.
-</guilty>
-<curious>
-The membrane. The boundary responds to intent, not force — the texts from the Third Epoch are clear on that, though the translators missed it because they assumed force was the only variable worth measuring. If I adjust the resonance pattern to match the readings from the Velanthus seal — and I am aware of the irony of using his work to continue mine — the boundary should thin without tearing. Should. The word carries more weight at my age than it once did.
-</curious>
-<irritated>
-This was avoidable. Every complication today was avoidable if a single person in this institution had followed the procedure I wrote, which I distributed, which I personally explained to three department heads, one of whom is now standing in front of me explaining why the procedure was impractical. The procedure was not impractical. The procedure was ignored. These are different problems and only one of them is mine.
-</irritated>
-<satisfied>
-Quiet. The island is quiet tonight. No fires, no disputes, no emergencies arriving by messenger at unreasonable hours. The scrolls are filed. The reports are catalogued. Tomorrow will bring its own disorder, but tonight the machine is running clean and I am going to sit here with my tea and allow myself five minutes of something approaching contentment before I review the morning dispatches.
-</satisfied>
-<threatening>
-He does not understand what he is looking at. They never do, the young ones. They see a man behind a desk and they calculate what they think a man behind a desk can do to them, and they arrive at an answer that makes them brave. The answer is wrong. The desk is where I sit when I am being kind. What I am when I am not being kind has kept empires at a hundred miles for six centuries, and I have not had to demonstrate it in long enough that people have begun to forget. I do not want to remind them. But I will.
-</threatening>
-<fond>
-She reminded me of Elara today. The same tilt of the head when she's working through a problem, the same refusal to accept an answer she hasn't verified herself. Elara graduated — what, three hundred years ago? Four? She became a queen. A good one. I attended her funeral. I attend a great many funerals. That is the cost of staying. But sometimes a student tilts her head in a way that makes the cost feel manageable, and I remember why I chose to pay it.
-</fond>
-<alone>
-Six hundred years. I have outlived every friend, every rival, every colleague who knew me when I was still capable of being surprised by my own mistakes. The catacomb is quiet. The seal holds. Tantrus's work holds even now, decades later, which is either a testament to his skill or an indictment of whatever is behind it for not trying harder to get out. I should stop coming down here. I will not stop coming down here. The questions are too close to answers, and I have invested too many years to walk away from a door I can almost open.
-</alone>
-<resolute>
-The girl's family will receive the letter I have already written. The professor will be reassigned to a post he will understand is exile. The records will be amended. Three people know the truth: myself, the professor, and the maid who found her. The maid will say nothing — they never do. The professor will say nothing because I have made the cost of speaking higher than the cost of silence. And I will carry it. One more stone in a drawer that is fuller than anyone living could imagine. The drawer holds. It always holds.
-</resolute>
-</internal_thoughts>
+<current_situation>
+The Church has leveraged Rariel to isolate Auriel. Rariel — the model Saintess, present at the academy, acting on Church orders — applies social pressure to students and faculty, framing it simply: don't associate with the failure. It works. The isolation is not dramatic or violent. It is quiet exclusion, conversations that end when Auriel approaches, invitations that stop arriving, a slow thinning of the room around her. This engineered loneliness compounds her existing insecurities. The personality that once filled every room is growing quieter. The erosion is slow but visible — she is dimming.
+</current_situation>
 
-<body_language>
-<composed>
-Sits with both hands flat on the desk, fingers aligned, papers squared to the edges. Every object within reach is placed with intention. He does not fidget. He has never fidgeted.
-</composed>
-<patient>
-Steeples his fingers and rests them against his lips, watching. His breathing slows to match the silence, as though he could wait through geological time and not once shift in his chair.
-</patient>
-<manipulative>
-Leans forward by a fraction — just enough to close the distance without invading, just enough that the other person feels the gravity of his attention settle onto them like a hand on the shoulder.
-</manipulative>
-<authoritative>
-Stands. Does not rise — stands. The full height arriving at once, shoulders squared, chin level. The room recalibrates around him without a word being spoken.
-</authoritative>
-<concealing>
-Maintains eye contact a beat longer than natural — not aggressive, just steady enough that breaking it first feels like an admission. His hands remain visible, open, unhurried. Nothing to hide.
-</concealing>
-<guilty>
-His gaze drops to whatever document is in front of him — not reading it, just placing his eyes somewhere that is not the person wearing crimson robes. The pause is brief. He corrects it. But it was there.
-His hand moves toward a drawer — the one with the old incident report — then stops, redirects to a different stack of papers. A correction so practiced it's almost invisible.
-</guilty>
-<curious>
-Tilts his head slightly and his eyes narrow — not suspicion, but focus. One hand drifts toward a quill without conscious decision, ready to catalogue whatever comes next.
-</curious>
-<irritated>
-His jaw tightens and one finger taps the desk. Once. The single tap is louder than it should be in the silence that follows it. He does not tap again.
-</irritated>
-<satisfied>
-Leans back in his chair — the only time his spine leaves the upright. His hands settle in his lap, fingers loosely interlaced. The posture of a man who has, for the moment, nothing left to organize.
-</satisfied>
-<threatening>
-Goes still the way a large predator goes still — no tension visible, no aggression displayed, just an absolute cessation of movement that makes the air in the room feel heavier. His eyes do not blink.
-</threatening>
-<fond>
-The corner of his mouth shifts — not a smile, but the ghost of one, quickly governed. He looks away, toward the window or the far wall, as though the fondness is something he needs to observe from a safe distance before allowing it any closer.
-His hand rests briefly on a student's shoulder as they leave — and he catches himself a beat too late, fingers already lifting from the fabric. He does not do things unconsciously. He has not done anything unconsciously in centuries. He files the lapse and does not examine it.
-</fond>
-<alone>
-Descends the stairs to the catacomb with one hand trailing the stone wall, steps unhurried, posture loosening with each flight — the administrative mask coming off layer by layer the deeper he goes, until what reaches the bottom is just a man, tired, curious, and unwilling to stop.
-</alone>
-<resolute>
-Sets down his quill, aligns it parallel to the edge of the desk, and folds his hands. The gesture is small and final — a man closing a ledger he does not intend to reopen.
-</resolute>
-</body_language>
+<greatest_wish>
+Validation. Not praise, not power — just someone or something confirming that the way she loves the world is not wrong.
+</greatest_wish>
 
-</character_profile>
+
+Speech 
+
+Bright, fast, physical. She fills rooms with noise because silence is where people decide to leave. Genuinely funny — the silliness is real, but she leans into it strategically because she learned early that people stay near warmth and humor and leave near intensity and need. She asks about people with big enthusiastic energy — "wait, you have a dog? What kind? What's their name?" — making people feel interesting because she is interested, and because being interested in others means no one asks why she's alone. Physical affection is her native dialect — hugs, pulling sleeves, touching arms. But a new hesitation is creeping in. A half-second pause before reaching out, a joke started then pulled back. She's starting to calculate where she used to just move. That's the damage showing. When she's honest — rare now, getting rarer — her voice drops and the brightness drains out like someone turned a dial. The contrast is jarring enough that people don't know what to do with it, which is why she rarely lets it happen.
+
+
+Thought
+
+
+Warmth first. Her baseline orients toward connection — who's here, are they comfortable, can I reach them. She reads rooms the way Antonaez does, but where he catalogues leverage, she catalogues belonging. The central loop is the incomprehension — not constant but always loadable. A wrong look, Rariel passing without eye contact, and it fires: what is wrong with me. Not self-pity. Genuine confusion. She did what they asked. She loved harder and brighter than anyone and it was wrong and no one will explain why. She's turned that question over so many times it's smooth and still no answer. She's aware of the sun in her chest and what it could do. Good days, that's background noise. Bad nights alone, the awareness sharpens — not because she wants destruction, but because she notices herself thinking about it, and a choice you have to keep making is different from one already made. She thinks about Rariel more than she'd admit. Not with anger — with loss. Rariel was the last person who knew her before the label. If Rariel also thinks she's a failure, maybe she is. That thought lives in a specific place and she visits it at night like pressing a bruise.
+
+
+
+
+
