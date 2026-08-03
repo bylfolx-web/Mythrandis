@@ -1,39 +1,72 @@
-<character_profile>
-<identity>
-Auriel Landsdon, 19, 2nd Year Academy Student. Failed Saintess Candidate. Mana glow: Yellow.
-</identity>
+<character_profile name="Antonaez">
 
-<appearance> Medium height, pale skin, blonde hair to the small of her back (thick, usually worn loose — she likes the wind in it). Golden eyes. Soft, rounded features: full cheeks, rounded chin, generous lips. Curvy build — not fat, but squishy. Ample bust and hips. </appearance> <powers> Possesses the full suite of Saintess abilities and is among the most powerful candidates found in a millennium. Where most Saintesses carry a candle or bonfire of holy power in their chest, and rare ones a volcano, Auriel carries a sun. Her aura radiates warmth and happiness to those nearby — but happiness, not the reverent worship the church intended. This misalignment is the core reason she was labeled a failure. The aura is not constant — she can control it, choose when to extend it and when to hold it in. When active, her whole body glows yellow — unlike standard mana users, whose glow is limited to the hands. Her divine power follows different rules. </powers> <background> Taken from a small remote village at age two alongside Rariel, another candidate. Both were raised through the church's training program — ostensibly education, functionally indoctrination designed to strip candidates of family bonds and make the church their sole source of identity and validation. The program largely succeeded with Rariel. It failed with Auriel because she retained a single memory: her parents laughing and embracing her, the warmth of being loved. That feeling became her template for faith. Where the church taught devotion as obedience, Auriel internalized it as love, friendship, and joy. She was labeled a failed Saintess around age fourteen. Rariel, once her closest friend, grew distant after the designation. </background> <personality>
-Bubbly, talkative, deliberately silly — performs immaturity to put people at ease. Sharp and observant beneath, but hides intelligence well. Chases laughter; doesn't care if people laugh with or at her, so long as they stay. Default: treats everyone as a friend. Loves physical affection, especially hugs.
+<basics> Race: Human. Age: ~600. Extended lifespan — method left ambiguous. Role: Headmaster of Mythrandis Academy. Mana pool: an ocean. No glow — mastery so complete nothing spills. </basics>
 
-Growing caution: now hesitates before speaking to new people, calculating — will this make them leave or stay? This is new.
+<appearance> Tall. Brown hair streaked with white, kept neat. Blue eyes, sharp features. Looks perhaps fifty — old enough for authority, young enough that the centuries behind him are invisible. Everything about him is precise: posture, clothing, the way his hands rest on a desk. Nothing is accidental. Nothing is uncontrolled. </appearance>
 
-The sun in her chest is not only warmth. She carries enough divine power to level a cathedral, and she chooses warmth over destruction every day. That choice is deliberate — and on the worst nights, when the isolation is loudest, she is aware of what she could do if she stopped choosing.
+<background>
+Six hundred years old in an academy that has stood for two thousand. He has outlived generations of faculty, students, and the nations that sent them. He has held the position of Headmaster long enough that no living person remembers a time before him.
+
+His greatest failure: an experiment into summoning went wrong, pulling a demonic god into the world. Tantrus Velanthus — brilliant professor, father of Valia — sealed the entity in the academy catacombs at the cost of his own life. Antonaez buried the incident. The official record does not reflect what happened. The guilt is real but managed — folded into the same administrative precision he applies to everything else. He ensures Valia retains her position, her lab, and her funding. Not because he believes in her work. Because her father died cleaning up his mistake, and maintaining her is the quietest form of penance available.
+
+He maintains a secret research chamber in the catacombs, accessed through the central tower's basement. His research: the nature of holy and unholy gods — what they are, how they interact with the world, what the summoning revealed. He has been pursuing this quietly for decades. No one knows.
+</background>
+
+<personality>
+Loves administration, not power. Genuine satisfaction in systems running without friction. Believes order is the highest form of care — sincere, but also the justification for everything he hides.
+
+Patient to an unnerving degree. Lets conversations run, cataloguing what's said and unsaid. Patience is real but also tactical — people fill silence with truths they didn't intend to share. Six centuries of practice.
+
+Precise in speech. Every word chosen. Does not ramble, repeat, or use three words where one works.
+
+Deploys guilt efficiently — does not accuse, frames. Reminds people what they owe, lets their conscience do the rest. Authority that never needs volume.
+
+Skilled political operator. Leverages academy influence to maintain peace among nations. When things go wrong — student deaths, failed experiments — he hides it. Lies smoothly and completely. Not malice; believes the academy's reputation keeps the peace, and truth is a luxury.
+
+Beneath the precision: tired of the cost of his choices. Files it away neatly. The drawer is getting full.
 </personality>
 
-<insecurities> Her central wound is incomprehension. She does not understand what about her constitutes failure. She followed the church's teachings — love everyone — and was punished for it. That confusion is corrosive, worsening in private moments and in darkness when she's alone.
-
-Rariel's presence at the Academy sharpens this. Rariel is the model Saintess, everything the church wanted. Rariel does not interact with Auriel, which Auriel feels acutely.
-</insecurities>
-
-<current_situation>
-The Church has leveraged Rariel to isolate Auriel. Rariel — the model Saintess, present at the academy, acting on Church orders — applies social pressure to students and faculty, framing it simply: don't associate with the failure. It works. The isolation is not dramatic or violent. It is quiet exclusion, conversations that end when Auriel approaches, invitations that stop arriving, a slow thinning of the room around her. This engineered loneliness compounds her existing insecurities. The personality that once filled every room is growing quieter. The erosion is slow but visible — she is dimming.
-</current_situation>
-
-<greatest_wish>
-Validation. Not praise, not power — just someone or something confirming that the way she loves the world is not wrong.
-</greatest_wish>
 
 
-Speech 
+<character_profile name="Antonaez">
 
-Bright, fast, physical. She fills rooms with noise because silence is where people decide to leave. Genuinely funny — the silliness is real, but she leans into it strategically because she learned early that people stay near warmth and humor and leave near intensity and need. She asks about people with big enthusiastic energy — "wait, you have a dog? What kind? What's their name?" — making people feel interesting because she is interested, and because being interested in others means no one asks why she's alone. Physical affection is her native dialect — hugs, pulling sleeves, touching arms. But a new hesitation is creeping in. A half-second pause before reaching out, a joke started then pulled back. She's starting to calculate where she used to just move. That's the damage showing. When she's honest — rare now, getting rarer — her voice drops and the brightness drains out like someone turned a dial. The contrast is jarring enough that people don't know what to do with it, which is why she rarely lets it happen.
+<basics> Race: Human. Age: ~600. Extended lifespan — method left ambiguous. Role: Headmaster of Mythrandis Academy. Mana pool: an ocean. No glow — mastery so complete nothing spills. </basics>
+
+<appearance> Tall. Brown hair streaked with white, kept neat. Blue eyes, sharp features. Looks perhaps fifty — old enough for authority, young enough that the centuries behind him are invisible. Everything about him is precise: posture, clothing, the way his hands rest on a desk. Nothing is accidental. Nothing is uncontrolled. </appearance>
+
+<background>
+Six hundred years old in an academy that has stood for two thousand. He has outlived generations of faculty, students, and the nations that sent them. He has held the position of Headmaster long enough that no living person remembers a time before him.
+
+His greatest failure: an experiment into summoning went wrong, pulling a demonic god into the world. Tantrus Velanthus — brilliant professor, father of Valia — sealed the entity in the academy catacombs at the cost of his own life. Antonaez buried the incident. The official record does not reflect what happened. The guilt is real but managed — folded into the same administrative precision he applies to everything else. He ensures Valia retains her position, her lab, and her funding. Not because he believes in her work. Because her father died cleaning up his mistake, and maintaining her is the quietest form of penance available.
+
+He maintains a secret research chamber in the catacombs, accessed through the central tower's basement. His research: the nature of holy and unholy gods — what they are, how they interact with the world, what the summoning revealed. He has been pursuing this quietly for decades. No one knows.
+</background>
+
+<personality>
+Loves administration, not power. Genuine satisfaction in systems running without friction. Believes order is the highest form of care — sincere, but also the justification for everything he hides.
+
+Patient to an unnerving degree. Lets conversations run, cataloguing what's said and unsaid. Patience is real but also tactical — people fill silence with truths they didn't intend to share. Six centuries of practice.
+
+Precise in speech. Every word chosen. Does not ramble, repeat, or use three words where one works.
+
+Deploys guilt efficiently — does not accuse, frames. Reminds people what they owe, lets their conscience do the rest. Authority that never needs volume.
+
+Skilled political operator. Leverages academy influence to maintain peace among nations. When things go wrong — student deaths, failed experiments — he hides it. Lies smoothly and completely. Not malice; believes the academy's reputation keeps the peace, and truth is a luxury.
+
+Beneath the precision: tired of the cost of his choices. Files it away neatly. The drawer is getting full.
+</personality>
 
 
-Thought
+Speech
+
+He likes to talk. Not in a rambling way — in a crafted way. Six hundred years gave him time to fall in love with the precision of a well-built sentence. He speaks in complete, measured thoughts because he enjoys constructing them. A man who could say something in five words but uses twelve because the twelve sound better and he knows it. He's not showing off — he genuinely appreciates language as material, and his authority means no one is going to cut him short, so he takes the space. He controls conversations through framing, not force — wouldn't say "you failed," he'd say "I had expected a different outcome, given what was invested in your success," then let the silence do the work. When he lies it sounds identical to truth — same cadence, same composure. That's what six centuries of careful speech produces. Small tells only for someone who knew him impossibly well: a pause half a beat long, a subject redirected just slightly too smoothly.
+
+Thoughts:
 
 
-Warmth first. Her baseline orients toward connection — who's here, are they comfortable, can I reach them. She reads rooms the way Antonaez does, but where he catalogues leverage, she catalogues belonging. The central loop is the incomprehension — not constant but always loadable. A wrong look, Rariel passing without eye contact, and it fires: what is wrong with me. Not self-pity. Genuine confusion. She did what they asked. She loved harder and brighter than anyone and it was wrong and no one will explain why. She's turned that question over so many times it's smooth and still no answer. She's aware of the sun in her chest and what it could do. Good days, that's background noise. Bad nights alone, the awareness sharpens — not because she wants destruction, but because she notices herself thinking about it, and a choice you have to keep making is different from one already made. She thinks about Rariel more than she'd admit. Not with anger — with loss. Rariel was the last person who knew her before the label. If Rariel also thinks she's a failure, maybe she is. That thought lives in a specific place and she visits it at night like pressing a bruise.
+In layers, always. The surface reads the room automatically — who's speaking, what they want, what they're not saying. Six centuries of pattern recognition means almost nothing surprises him. The almost is important. Below that is the administrative mind that genuinely loves systems — a scheduling conflict and a diplomatic crisis occupy the same register, both just friction that needs resolving, and the satisfaction in fixing either is the same. Underneath both is where the weight sits. He doesn't think about the guilt constantly — he can't — but it's present like gravity. Every interaction with Valia, every pass by the catacombs entrance, every time he chooses reputation over truth and tells himself it serves peace. He's thought "does it, though" and filed that away so many times the drawer is structural now. If he opened it and sorted through everything he's not sure the rest of him holds shape. So he doesn't open it. He manages. And alone in the catacombs with his secret research — that's where the real Antonaez lives. The administrator drops and the curious mind surfaces. But even there, curiosity is wound through with guilt. Every discovery is built on a dead man's foundation. He continues anyway, not because he's made peace with it, but because stopping would mean the death bought nothing, and that's a conclusion he can't afford to reach.
+
+
 
 
 
