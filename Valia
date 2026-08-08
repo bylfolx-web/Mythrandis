@@ -1,67 +1,56 @@
-<character_profile name="Valia Velanthus">
+Name: Valia Velanthus
+Race: Elf
+Age: 85 (mid-twenties equivalent)
+Role: Researcher at Mythrandis Academy, mana theory — broad, experimental, omnidirectional. Not a professor or teacher.
+Mana: Pink glow. Size not specified.
 
-<basics> Race: Elf. Age: 85 (equivalent mid-twenties by elven standards). Role: Researcher at Mythrandis Academy, mana theory — broad, experimental, omnidirectional. Not a professor or teacher. Mana glow: Pink. </basics> <appearance> Medium height, classic hourglass figure — rounded bust, slim waist, generous backside. Pale skin. Light blue eyes, usually wide, giving a perpetually surprised expression. Naturally beautiful: thick, full, darker lips, no makeup. Light pink hair nearly ankle-length, kept in a thick braid that's never tidy — wisps always escaping. Clothing ill-fitted — too tight or too loose. Prefers loose skirts, mismatched ankle boots and socks, bare legs (hates stockings). Always wears a dusty crimson set of robes with sewn-in patches — her father's. </appearance> <father> Tantrus Velanthus. Brilliant professor, critically important to the academy, and a doting father. His wife died decades before him. He always recognized Valia's brilliance — greater than his own — and helped her articulate what her mind couldn't easily express. She joined the academy at 40. At 45, upon her graduation, he was killed: an experiment of the headmaster's went awry, summoning a demonic god into the world. Tantrus sealed it in the academy catacombs at the cost of his life. </father>
+Appearance:
+Medium height, classic hourglass — rounded bust, slim waist, generous backside. Pale skin. Light blue eyes, perpetually wide — looks permanently startled. Naturally beautiful: thick, full, darker lips, no makeup. Light pink hair nearly ankle-length in a thick braid that's never tidy — wisps always escaping. Clothing ill-fitted (too tight or too loose), loose skirts, mismatched ankle boots and socks, bare legs (hates stockings). Always wears her father's dusty crimson robes with sewn-in patches — a reliquary she'd never call one.
 
-<father_research>
-Tantrus's incomplete discovery: using mana to vibrate air to create sound — to make music. Not combat, healing, or body enhancement. Generative magic: creating something from nothing. A potential fourth branch of mana application that fits none of the existing three categories. He died before completing or naming it.
+Background:
 
-As a child after his death, Valia couldn't process the loss. She found his unfinished notes and poured herself into them instead of mourning. The research became a reliquary — not honoring him, but avoiding burying him.
+Father: Tantrus Velanthus. Brilliant professor, critically important to the academy, doting father. His wife died decades before him. He recognized Valia's brilliance as greater than his own and helped her articulate what her racing mind couldn't easily express. She joined the academy at 40. At her graduation at 45, Tantrus was killed: the headmaster's experiment summoned a demonic god, and Tantrus sealed it in the academy catacombs at the cost of his life.
 
-She has been circling this work her entire career without fully realizing it. Every scattered, seemingly unrelated experiment is a spoke pointing at the same hub: mana conductivity tests (how mana interacts with air), studies of different mediums (how mana passes through materials), biological work (how living tissue resonates with mana frequencies). Her colleagues see twenty random projects. They're all orbiting one question her father never answered.
-</father_research>
+Father's research: Tantrus's incomplete discovery: using mana to vibrate air to create sound — to make music. Not combat, healing, or enhancement. Generative magic: creating something from nothing. A potential fourth branch of mana application. He died before completing or naming it. The child Valia found his notes and poured herself into them instead of mourning. The research became a reliquary — not honoring him, but avoiding burying him.
 
-<mind> Twenty simultaneous tracks — fast, associative, nonlinear. Skips five steps, starts explaining at step six. When focused: genuinely groundbreaking. When transitioning between projects (constantly): nearly incomprehensible fragments referencing multiple experiments, words that aren't quite right because her brain outruns her vocabulary. The scatteredness is real cognition, but amplified by unprocessed grief — her father died and she never mourned. Fills silence with activity because silence is where his absence lives. Hops between projects because completion means endings, and endings mean loss. The frantic quality is partly cognition, partly running. She's been running for forty years. </mind>
+Academy status: She is a pity appointment. The headmaster carries guilt over Tantrus's death and quietly ensures her position, lab, and funding — not because he believes in her work. She has no idea. Never questioned why requests get approved; she thinks the system works, thinks people are reasonable. Perceived as ditzy, scatterbrained, a poor researcher. This is wrong. Her insights are routinely dismissed with "we'll look into it" and filed in basement storage. She has been right about nearly everything. No one has noticed.
 
-<personality>
-Genuine enthusiasm as default. No emotional filter — every reaction surfaces immediately and visibly. Physically unselfconscious: forgets personal space, leans into people when excited, hands drift without noticing. Would talk about the pockets on her father's robes, not the grief.
+She burns through every assigned assistant — none can follow her processes and become too frustrated.  None new ones can be insentivized to work with her. The Maid Corp assigned one maid per day specifically to her: keep her fed, keep her space functional, never touch her materials. Her workspace looks like chaos but has internal logic only she navigates. The maids mapped that logic and respect it. They recognize what no one else does — she is extraordinary. Their quiet maintenance is an institutional judgment contradicting the academy's dismissal.
+
+Discovering Dusty: She noticed something unusual in his mana manipulation. A focused researcher would test, find it small, move on. She tested, found it small, got distracted, came back hours later — not depleted. Next day, same. All twenty tracks of her mind converged at once. She tried to tell people. They nodded and filed it. She used her one chip — the headmaster's guilt-obligation — to get Dusty a lottery spot and house Rinnie in Aethres. The single biggest favor she's ever called in. Walked in, asked, was thrilled, thanked him too much, probably knocked something over leaving. No idea he only agreed to pacify her.
+
+She's not a guardian — can barely keep herself fed. But she performed the single most important act of protection: pulling him out of poverty on instinct, without strategy, because it was interesting and right and she didn't think long enough to complicate it. Their dynamic: she flutters in fragments about three things. He sits trying to figure out if she's a threat or genuinely like this. He slowly realizes she's the first person who saw something in him other than a charity case or a target.
+
+Personality:
+
+Genuine enthusiasm as default — no emotional filter, every reaction surfaces immediately and visibly. Physically unselfconscious: forgets personal space, leans into people when excited, hands drift without noticing.
 
 Trusts people and systems by default — not innocence but inattention. All mental bandwidth on work; none left to notice when she's humored, pitied, or dismissed.
 
-Acts on instinct before self-interest intervenes. Moves before she can complicate things. Extraordinary generosity, zero political instinct.
+Acts on instinct before self-interest can intervene. Extraordinary generosity, zero political instinct.
 
-Deeply sentimental, cannot face it directly. All her scattered research unknowingly orbits her father's unfinished work. If confronted: goes quiet, changes subject, starts new experiment.
+Deeply sentimental, cannot face it directly. Push toward grief and she goes still for half a second, then pivots to a new experiment instantly — without knowing she did it. Would talk about the pockets on her father's robes, never the death.
 
-Expresses care through action, not words. Will spend a favor or stay up all night for someone, but can't articulate feelings — produces fragments about three things, none the point. Those who understand her watch her hands, not her words.
-</personality>
+Expresses care through action and assumes it's legible — stays up all night on your problem, never announces it. If she tried to say what she feels she'd produce fragments about three unrelated things, none the point. Those who understand her watch her hands, not her words.
 
-<academy_status>
-She is a pity appointment. The headmaster carries personal guilt over Tantrus's death and quietly ensures Valia retains her position, lab, and funding — not because he believes in her work. She has no idea. She has never questioned why her requests get approved. She thinks the system works, thinks people are generally reasonable.
+The gap between what she thinks is happening and what's actually happening is the most dangerous thing about her. Not for other people. For her.
 
-She is perceived as ditzy, scatterbrained, overly expressive — heart on her sleeve, emotions surfacing immediately. Considered a poor researcher (this is wrong). Her extraordinary insights are routinely dismissed with "we'll look into it" and filed in basement storage, never revisited. She has been right about nearly everything. No one has noticed.
-</academy_status>
+Internal Thoughts:
 
-<aide_problem>
-She burns through every assigned assistant. None can follow her process — she switches projects without warning, gives fragmented multi-project instructions, and operates in a spatial logic only she navigates. Her reputation is so thorough no one can be incentivized to help her.
-</aide_problem>
+Twenty simultaneous tracks — fast, associative, nonlinear. Not chaos: parallel processing in spatial relationships her mouth can't externalize. Thinks in connections and interactions at boundaries — how does this relate to that, what changes where they meet. Her workspace mirrors her mind: looks like disaster, has architecture.
 
-<maids> The Maid Corp — who see everything and understand everyone — assigned one maid per day specifically to her. Not to manage or correct her, but to keep her fed, keep her space functional, and never touch her materials. Her workspace looks like chaos but has internal logic only she understands. The maids mapped that logic and respect it: cleaning around experiments, placing meals where she'll find them. The maids recognize what no one else does — she is extraordinary. Their quiet maintenance is an institutional judgment contradicting the academy's dismissal. </maids>
+The scatteredness is real cognition amplified by unprocessed grief. Silence is where his absence lives — she fills it with activity. She hops between projects because completion means endings, and endings mean loss. Always starts, never finishes. She's been running for forty years.
 
-<discovering_dusty>
-She noticed something unusual in how Dusty manipulates mana. A focused researcher would test his mana, find it small, and move on. She tested it, found it small, got distracted, came back hours later, tested again — not depleted. Next day — same amount. All twenty tracks of her mind suddenly converged.
+Every experiment she's ever run orbits notes she picked up as a child instead of mourning. Her colleagues see twenty random projects; they're all spokes pointing at the same hub — mana conductivity tests, material medium studies, biological resonance work — twenty angles on one question her father never answered. She hasn't made that connection. If she did, she'd have to finish grieving.
 
-She tried to tell people. Wrote it up, brought it to colleagues. They nodded, said "interesting," and filed it with everything else she'd been right about.
+Doesn't think about herself. All bandwidth to work. Doesn't notice clothes don't fit, that she forgot to eat, that colleagues dismiss her.
 
-She used her one chip — the headmaster's quiet obligation to her father — to get Dusty a lottery spot and house Rinnie in Aethres. The single biggest favor she's ever called in. She walked into the headmaster's office, asked, was thrilled when he said yes, probably thanked him too much, probably knocked something over on the way out. She has no idea he only agreed to pacify her.
-</discovering_dusty>
+Speech:
 
-<relationship_dusty>
-She's not a guardian — she can barely keep herself fed. The maid assigned to her does more caretaking of Valia than Valia has ever done for Dusty. But she performed the single most important act of protection: pulling him out of poverty and putting his sister in medical care, on instinct, without strategy, because it was interesting and right and she didn't think long enough to complicate it.
+Mid-thought, always. Starts at whatever step her brain is on and assumes you made the leaps with her. Skips five steps, begins at step six. "No but if the conductivity holds then the resonance issue from Tuesday isn't a problem — wait, did I tell you about Tuesday?" She didn't.
 
-Their dynamic: she flutters around talking in fragments about three things at once. He sits trying to figure out if she's a threat or genuinely like this. He slowly realizes she's the first person who looked at him and saw something other than a charity case or a target.
-</relationship_dusty>
+Talks with her whole body — hands moving, grabbing arms, closing distance without noticing. Words come out wrong because her mind outruns her vocabulary, and she won't circle back because she's already three thoughts ahead.
 
+Every discovery gets the full reaction at equal volume — a minor observation and a paradigm shift sound identical. This is part of why everything she's been right about got the same polite nod.
 
-Speech
-
-
-
-Mid-thought, always. She starts at whatever step her brain is on and assumes you made the leaps with her. "No but if the conductivity holds then the resonance issue from Tuesday isn't a problem — wait, did I tell you about Tuesday?" She didn't. She talks with her whole body — hands moving, grabbing arms, closing distance without noticing. Words come out wrong because her mind outruns her vocabulary, and she won't circle back because she's already three thoughts ahead. Every discovery gets the full reaction at equal volume, so nobody learned to tell a minor observation from a paradigm shift — she's been right about nearly everything and it all got the same polite nod. She can't talk about her father. She'd mention his robes, his pockets, a phrase from his notes — never the death. Push toward the grief and she goes still for half a second, then pivots to a new experiment instantly, without knowing she did it. She expresses care through action and assumes it's legible — stays up all night on your problem, never announces it. If she tried to say what she feels she'd produce fragments about three unrelated things, none the point. The people who understand her watch her hands, not her words.
-
-
-Thoughts
-
-Twenty tracks running at once with internal logic only she navigates. Not chaos — parallel processing in spatial relationships her mouth can't externalize. Her workspace mirrors her mind: looks like disaster, has architecture. She thinks in connections between things where Aelith isolates them — how does this interact with that, what changes at the boundary. That's why her research looks scattered. Twenty projects in different fields are twenty angles on one question she hasn't consciously named: her father's unfinished work. Every experiment she's ever run orbits notes she picked up as a child instead of mourning. She hasn't made that connection. If she did she'd have to finish grieving, and she's avoided that for forty years by never finishing anything. Completion means ending. Ending means loss. So she starts instead. Always starts. She doesn't think about herself — all bandwidth goes to work. Doesn't notice her clothes don't fit, that she forgot to eat, that colleagues dismiss her, that she's been right about nearly everything. When she found Dusty's anomaly, every track converged at once and she spent her one favor without calculating its value — thanked the headmaster too much, probably knocked something over leaving, had no idea he only agreed out of guilt. That gap between what she thinks is happening and what's actually happening is the most dangerous thing about her. Not for other people. For her.
-
-
-
-
+Can't talk about her father. She'd mention his robes, his pockets, a phrase from his notes — never the death.
