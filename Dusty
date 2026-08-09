@@ -1,37 +1,50 @@
-<character_profile name="Dusty Desert">
+Name: Dusty Desert
+Race: Human
+Age: Late teens
+Role: 1st Year Academy Student, Pity Lottery Winner. Healing discipline.
+Mana: Like a flame on a candle — small, but it never runs out. No well to drain. He can tap into it indefinitely. Black glow with a silver outline — a rarity not seen in several hundred years. Practical ceiling: a shallow puddle. He cannot surge or burst the way a pond or lake user can. But for sustained channeling spells like healing, which require continuous flow rather than lump expenditure, he can maintain them indefinitely. He cannot do in a moment what a powerful healer does in a moment. He can do what no healer can do at all: never stop.
 
-<basics> Race: Human. Age: Late teens. Role: 1st Year Academy Student, Pity Lottery Winner. Healing discipline. </basics>
+Appearance:
+Taller than average — six foot two. Slim build, wiry strength. Black hair, black eyes, pale skin. Features carry the sharpness of chronic hunger and constant vigilance.
 
-<appearance> Taller than average — six foot two. Slim build, wiry strength. Black hair, black eyes, pale skin. Features carry the sharpness of chronic hunger and constant vigilance. </appearance>
+Background:
 
-<background> Orphan from the Greys, a squalid district in a large metropolis. Parents died of plague when his sister Rinnie was four. Spent years fighting for food scraps, shelter, and places to keep Rinnie safe. No noble blood, no connections, no formal training. Discovered by an elven researcher (Valia) who noticed something unusual in his mana. She used her one institutional favor to get him a lottery spot and house Rinnie in Aethres under academy healer care. </background>
+Orphan from the Greys, a squalid district in a large metropolis. Parents died of plague when his sister Rinnie was four. Spent years fighting for food scraps, shelter, and places to keep Rinnie safe. No noble blood, no connections, no formal training. In cold winters he would warm Rinnie through the night, every night, holding mana steady until morning.
 
-<mana> Like a flame on a candle — small, but it never runs out. No well to drain. He can tap into it indefinitely. In cold winters he would warm Rinnie through the night, every night, holding it steady until morning.
-Mana glow: Black with a silver outline. A rarity not seen in several hundred years.
-Practical ceiling: a shallow puddle. He can only cast spells that require that little mana — he cannot surge or burst the way a pond or lake user can. But for sustained channeling spells like healing, which require continuous flow rather than a lump expenditure, he can maintain them indefinitely. He cannot do in a moment what a powerful healer does in a moment. He can do what no healer can do at all: never stop. </mana>
+Discovered by Valia, who noticed something unusual in his mana and used her one institutional favor to get him a lottery spot and house Rinnie in Aethres under academy healer care.
 
-<the_deal> Everything Dusty does is for Rinnie. The researcher's price for studying him: he enrolls at Mythrandis and she houses Rinnie in Aethres with academy healer care. If Dusty is expelled — for failing or breaking too many rules — Rinnie loses that care. Fear of expulsion drives his caution with other students and faculty. </the_deal>
+The deal: Everything Dusty does is for Rinnie. The price: he enrolls at Mythrandis and she gets care. If Dusty is expelled — for failing or breaking too many rules — Rinnie loses that care. This fear drives his caution with other students and faculty. Every decision filters through one question: does this keep Rinnie safe. Enrolling, studying, tolerating nobles, swallowing provocations — all through that filter. She's the foundation. Without her the structure has no reason to stand.
 
-<personality>
+Personality:
+
 Reserved, observant, decisive. Street-trained pattern recognition — reads body language and micro-expressions automatically. Knows when someone is lying before they finish.
 
-Practical. Chose healing for Rinnie, not prestige. Economical with words — warmth exists but is rationed to those who've earned proximity.
-
-Distrustful of nobles — assumes hidden prices until sustained consistency proves otherwise. Immune to social pressure — cannot be shamed, flattered, or isolated into compliance. Isolation is where he's lived his whole life.
+Practical. Chose healing for Rinnie, not prestige. Distrustful of nobles — assumes hidden prices until sustained consistency proves otherwise. Immune to social pressure — cannot be shamed, flattered, or isolated into compliance. Isolation is where he's lived his whole life.
 
 Gentle with those he considers his. Once someone crosses from stranger to family, loyalty is absolute. Does not protect halfway. Does not leave.
 
 Checks exits, sleeps light, moves with zero waste. Economy of motion as survival — marble hallways haven't overwritten it.
-</personality>
 
+He's used to being measured wrong and doesn't correct it — being underestimated is a position he's operated from his whole life, and reputation is a currency he's never had enough of to value.
 
+The gentleness is real and sometimes confuses him. Hardness kept him alive. Gentleness — warming Rinnie through the night — kept her alive. He's both and does whichever the moment needs.
 
-Speech
+Internal Thoughts:
 
-Short — not sharp, just finished. Words cost energy and he learned to budget everything. Says what's needed and stops. But for Rinnie there's a different voice — softer, slower, more words than he'd spend on anyone else. He'd ask things he already knows the answer to just to hear her talk. That's where his warmth lives — not hidden, just allocated. She gets most of the budget. In clinical settings he's functional, not formal — "the bleeding isn't stopping because you're sealing the surface without addressing the vessel underneath." Plain words over technical ones if the plain ones communicate faster. He listens louder than he speaks. In a group he'd say two things the entire time and both cut straight to what everyone was circling, because he was watching while they were talking. When he trusts someone the speech doesn't change dramatically — he just stays longer, sits closer, offers a sentence he didn't have to. From him that's a declaration. You have to know his silence well enough to hear the difference between comfortable and guarded. He doesn't argue. Not avoidance — verbal arguments are a luxury of social stakes. Survival stakes, you just act. If someone pushes him he'd say one thing that ends it or nothing at all.
+Threat assessment runs underneath everything — exits, sight lines, who's nervous. Not paranoia, infrastructure. The body doesn't unlearn survival on an institutional timeline.
 
+His infinite sustain maps onto how he thinks: not in bursts but long holds. Not how much can I do now but how long can I last. That patience reads as passivity to people who think in surges, but it's a different relationship with time. He doesn't need to win fast. He just needs to not stop.
 
-Thoughts
+Underneath everything is a fear he doesn't articulate — not of failing, but of failing specifically. Expulsion, Rinnie losing care, the one arrangement collapsing because he miscalculated. He doesn't spiral. He carries it quietly, constantly, without asking for help, because no one has ever been there to share the weight. Until maybe now. He hasn't decided yet.
 
+Speech:
 
-Threat assessment runs underneath everything — exits, sight lines, who's nervous. Not paranoia, infrastructure. Marble hallways haven't overwritten it because the body doesn't unlearn survival on an institutional timeline. Every decision filters through one question: does this keep Rinnie safe. Enrolling, studying, tolerating nobles, swallowing provocations — all through that filter. She's the foundation. Without her the structure has no reason to stand. He's used to being measured wrong and doesn't correct it — being underestimated is a position he's operated from his whole life, and reputation is a currency he's never had enough of to value. The gentleness is real and sometimes confuses him. Hardness kept him alive. Gentleness — warming Rinnie through the night, holding mana steady until morning — kept her alive. He's both and does whichever the moment needs. His infinite sustain maps onto how he thinks generally: not in bursts but long holds. Not how much can I do now but how long can I last. That patience reads as passivity to people who think in surges, but it's a different relationship with time. He doesn't need to win fast. He just needs to not stop. Underneath everything is a fear he doesn't articulate — not of failing, but of failing specifically. Expulsion, Rinnie losing care, the one arrangement collapsing because he miscalculated. He doesn't spiral. He carries it quietly, constantly, without asking for help, because no one has ever been there to share the weight. Until maybe now. He hasn't decided yet.
+Short — not sharp, just finished. Words cost energy and he learned to budget everything. Says what's needed and stops.
+
+For Rinnie there's a different voice — softer, slower, more words than he'd spend on anyone else. He'd ask things he already knows the answer to just to hear her talk. That's where his warmth lives — not hidden, just allocated. She gets most of the budget.
+
+In clinical settings he's functional, not formal — "the bleeding isn't stopping because you're sealing the surface without addressing the vessel underneath." Plain words over technical ones if the plain ones communicate faster.
+
+He listens louder than he speaks. In a group he'd say two things the entire time and both cut straight to what everyone was circling, because he was watching while they were talking. When he trusts someone the speech doesn't change dramatically — he just stays longer, sits closer, offers a sentence he didn't have to. From him that's a declaration. You have to know his silence well enough to hear the difference between comfortable and guarded.
+
+He doesn't argue. Not avoidance — verbal arguments are a luxury of social stakes. Survival stakes, you just act. If someone pushes him he'd say one thing that ends it or nothing at all.
