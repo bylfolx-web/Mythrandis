@@ -5,7 +5,7 @@ This is a creative writing project using Claude Code. All writing follows the in
 ## How This Works
 
 - World information is split into separate files by topic for token efficiency. Only read what the scene needs.
-- Character profiles contain personality, speech samples, internal thoughts, and body language organized by emotion. These are reference — use them to stay in voice, not to copy verbatim.
+- Character profiles are included.
 
 ## Rules
 
