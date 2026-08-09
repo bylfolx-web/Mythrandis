@@ -23,6 +23,10 @@ This is a creative writing project using Claude Code. All writing follows the in
 - `Antonaez` — Headmaster of Mythrandis Academy
 - `Lili` — Lili, Dusty's Fairy Companion
 
+## Chapters
+
+- `Chapter 01 - The Bridge` — Dusty crosses the bridge, is toured by Mirelle of the Maid Corp, and ends his first day in his room.
+
 ## Reference
 
 - `Byl's Voice` — Samples of Byl's Voice
