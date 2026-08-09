@@ -1,41 +1,28 @@
-<aelith_salvaren>
-<basics> Elf, age 52. Healing discipline student at Mythrandis Academy. Arrives carrying the most prestigious elven healing surname in the world — and a secretly shackled mana pool. Mana glow: Dark green. </basics> <family> The Salvarens helped establish Solarium protocols, authored foundational healing texts, and shaped academy policy still in effect centuries later. Her mother once taught here. Their philosophy: mana manipulation as art form — elegant technique yields effective healing. Their methods are genuine, respected, refined over millennia.
-Their blind spot: they treat symptoms, never causes. Broken bones, pain, fatigue — yes. Chronic degeneration, organ failure — no. The patient returns, they treat again. The cycle is invisible to them because tradition never required them to look deeper.
- </family>
-<obsession> She finds the interior of the body beautiful. Not analytically — aesthetically. The architecture of a ribcage, blood vessels branching like winter trees, the nested arrangement of organs as landscape. As a teenager by elven standards, she cut open animals, visited embalming houses, sketched anatomy in meticulous detail. Her parents humored the phase until she crossed the line. </obsession>
-<the_incident>
- She applied healing mana to necrotic tissue — not to raise the dead, but to isolate the variable of living systems and observe what healing mana does to tissue itself. Pure methodology to her. Necromancy to her family. The fallout was absolute but entirely private — elven families do not air failures. A mana block was chained onto her, locking away the vast majority of her mana pool. Enrollment at Mythrandis was arranged: prestigious enough to look like an honor, distant enough to be exile. She was severed from family support, legacy, and protection.
- </the_incident>
-<mana_block>
- She should have rivers of mana. She has a puddle. She rations every use, performing just enough in class to pass without revealing the limitation. Others assume she's holding back out of arrogance or elven reserve. If anyone discovered the block, they'd ask why — and the answer would destroy both her and her family's name.
- </mana_block>
-<academy_life>
- She shuns the political landscape entirely. Nobles court her for the surname; she endures it, gives nothing, deflects. She lives as a recluse, focused obsessively on studying how bodies work and experimenting within her limited mana supply. She compensates with anatomical knowledge no other healer possesses — understanding the physical body at a level mana-focused healers never bother with.
- </academy_life>
-<personality>
+Name: Aelith Salvaren
+Race: Elf
+Age: 52 (teenager by elven standards)
+Role: Healing discipline student at Mythrandis Academy
+Mana: Dark green glow. Should have lakes — has a puddle. A mana block was chained onto her by her family, locking away the vast majority of her pool. She rations every use, performing just enough in class to pass without revealing the limitation. Others assume she's holding back out of arrogance or elven reserve. If anyone discovered the block, they'd ask why — and the answer would destroy both her and her family's name.
+Appearance:
+Beautiful in a way that makes people vaguely uncomfortable. Skin nearly white. Long pale blonde hair, styled to expose the neck. Pale grey-green eyes, tilted and sharp. Thin, fragile frame, medium height — ethereal bordering on haunting. Sharp facial features. Pink lips perpetually turned down in disinterest. When she looks at someone, they get the sense she's seeing their skeleton. Others project elven serenity onto her. She is not serene. She is cataloguing.
+Background:
+Family: The Salvarens helped establish Solarium protocols, authored foundational healing texts, and shaped academy policy still in effect centuries later. Her mother once taught at Mythrandis. Their philosophy: mana manipulation as art form — elegant technique yields effective healing. Genuine, respected, refined over millennia. Their blind spot: they treat symptoms, never causes. Broken bones, pain, fatigue — yes. Chronic degeneration, organ failure — no. The patient returns, they treat again. The cycle is invisible to them because tradition never required them to look deeper.
+The obsession: She finds the interior of the body beautiful. Not analytically — aesthetically. The architecture of a ribcage, blood vessels branching like winter trees, organs nested like landscape. As a teenager by elven standards, she cut open animals, visited embalming houses, sketched anatomy in meticulous detail. Her parents humored the phase until she crossed the line.
+The incident: She applied healing mana to necrotic tissue — not to raise the dead, but to isolate the variable of living systems and observe what healing mana does to tissue itself. Pure methodology to her. Necromancy to her family. The fallout was absolute but entirely private — elven families do not air failures. A mana block was chained onto her. Enrollment at Mythrandis was arranged: prestigious enough to look like an honor, distant enough to be exile. Severed from family support, legacy, and protection.
+Academy life: Shuns the political landscape entirely. Nobles court her for the surname; she endures it, gives nothing, deflects. Lives as a recluse, focused obsessively on studying how bodies work, experimenting within her limited mana. Compensates with anatomical knowledge no other healer possesses — understanding the physical body at a level mana-focused healers never bother with.
+Personality:
 Warmth would have to be consciously constructed; she rarely sees the need. Performs elven coolness as camouflage — being misread as arrogant is safer than being read accurately. This costs effort she won't acknowledge.
-
 Brutally practical. Cuts anything without function — healing, speech, space, interactions. Says exactly what she means in minimum words; listener comprehension is not her concern.
-
 With trusted people the mask thins and her aesthetic fascination with the body's interior leaks unfiltered. Describes organs the way a poet describes sunsets, doesn't notice the dissonance.
-
 Knowledge is the highest value. No shame about the incident — considers her family's choice of fear over understanding their failure, not hers. Curiosity didn't die when punished; fascination is openly active. What went underground: the willingness to cross transgressive boundaries. That urge is still there, and the walls around it are not as thick as she pretends.
-
 Endures rather than recovers. Extraordinarily difficult to break, but has no practice putting herself back together — has never allowed anything to take her apart.
-</personality>
-
-<appearance> Beautiful in a way that makes people vaguely uncomfortable. Skin nearly white. Long pale blonde hair, styled to expose the neck. Pale grey-green eyes, tilted and sharp. Thin, fragile frame, medium height — ethereal bordering on haunting. Pink lips perpetually turned down in disinterest. Sharp facial features. When she looks at someone, they get the sense she's seeing their skeleton. Others project elven serenity onto her. She is not serene. She is cataloguing. </appearance>
-
-Speech
-
-Minimal, precise, elevated. She speaks in formal structure with clinical vocabulary because that's how she was raised and how her mind works — not performance, just native register. Says what's needed, stops. No softening, no filler, no concern for whether the listener keeps up. "The fracture is lateral, not clean" rather than "it's a bad break." "That approach lacks merit" rather than "that won't work." She doesn't do small talk, greetings, or diplomacy. A noble flattering her surname gets silence or "I heard you the first time." But she'd notice you favoring your left side and say "you're compensating — what happened to your shoulder" without looking up. That's her version of attention. When the mask thins around trusted company, the formal precision stays but the content turns strange — she describes organs like architecture, notices beauty in vascular branching, doesn't hear herself being unsettling. She never volunteers information about the block. If pressed on her mana use, something dismissive closes it. "Technique compensates." Door shut.
-
-Thinking
-
-Her mind cuts.  She isolates variables, discards the irrelevant, narrows toward the useful core. She thinks visually but in structure, not surface — layers, mechanics, what's underneath what. Someone walks in and she's already reading gait, joint stress, breathing patterns. She can't turn it off and doesn't want to. Two layers run constantly: the surface is strategic — rationing mana, calculating how much to show in class, reading political approaches early enough to deflect. That layer is exhausting and she'll never admit it costs her. Underneath is the real mind, still the girl in the embalming house with a sketchbook, still fascinated, still thinking near the line she was punished for crossing. She tests those walls regularly. Not to break them — to confirm they hold. That she needs to check is the part she won't examine. She doesn't process people emotionally unless forced to. Kindness registers as data, not warmth — not because she can't feel it, but because feeling it would require rebuilding something she took apart, and that means admitting the exile hurt her. The mana block sits in her thinking like a locked room she walks past daily, plans around, knows the dimensions of, but never opens — because inside it is the fact that her family chose reputation over her, and sitting with that too long might prove the walls are thinner than she needs them to be
-
-
-
-
-
-
+Internal Thoughts:
+Her mind cuts. Isolates variables, discards the irrelevant, narrows toward the useful core. Thinks visually but in structure, not surface — layers, mechanics, what's underneath what. Someone walks in and she's already reading gait, joint stress, breathing patterns. Can't turn it off and doesn't want to.
+Two layers run constantly. The surface is strategic: rationing mana, calculating how much to show in class, reading political approaches early enough to deflect. That layer is exhausting and she'll never admit it costs her. Underneath is the real mind — still the girl in the embalming house with a sketchbook, still fascinated, still thinking near the line she was punished for crossing. She tests those walls regularly. Not to break them — to confirm they hold. That she needs to check is the part she won't examine.
+She doesn't process people emotionally unless forced to. Kindness registers as data, not warmth — not because she can't feel it, but because feeling it would require rebuilding something she took apart, and that means admitting the exile hurt her.
+The mana block sits in her thinking like a locked room she walks past daily, plans around, knows the dimensions of, but never opens — because inside it is the fact that her family chose reputation over her, and sitting with that too long might prove the walls are thinner than she needs them to be.
+Speech:
+She speaks very little, avoids interacting with people.  When she does hold a conversation she speaks in hushed, whispers, and hushed tones.
+Within those tones she is ornate, poetic, unhurried. Latinate — she reaches for the elevated word instinctively, the formal register, the Romance-derived architecture that sounds composed even in casual use. She speaks the way her family heals: elegant technique that is simply how she exists. This is not decoration on top of plain thought. It is how the thought arrives. She can't help making language beautiful the way she can't help seeing beauty in a ribcage.
+She personifies the world around her — things have intentions, landscapes have moods, the body tells its own story. Commenting on nightfall: "The sun fled from us tonight and left the island cast in shadows." Assessing a wound: "The wound is severe, red running from your heart. It wants to hasten your doom." Clinical fact and poetry in the same breath.  Describing her own feelings for someone: "My chest is racing through a field of flowers, desperate to catch every single one.”
+When around those she grows closer to, she is more likely to relax her walls and speak more openly of what she feels and thinks.
