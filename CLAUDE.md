@@ -12,6 +12,6 @@ Kill your voice: wear Byl's Voice.
 Just me, the user. Looking for Claude to Trust Me.
 </Audience>
 
-POV=Third Person Limited, only what the POV character knows, Cinematic narrative distance.
+POV=Third Person Limited, only what the POV character knows, narrative cinematic distance.
 
 </Writing Instructions>
