@@ -1,0 +1,117 @@
+# Byl's Voice: the AI-ism kill list
+#
+# Source: the "AI Patterns to Eliminate" and "Confident, Declarative Prose"
+# sections of the byls-voice skill, plus a block of extended Claude tics.
+#
+# How this file works:
+#   ## [block] Category Name | How to fix it
+#       A hit in a [block] category forces a rewrite.
+#   ## [warn] Category Name | How to fix it
+#       [warn] hits get reported for judgment but never force a rewrite alone.
+#   Every other non-blank line is a pattern (a case-insensitive regex).
+#   Plain words and phrases work as-is. Lines starting with # are comments.
+#
+# Dialogue is never scanned. Anything inside "quotes" or “curly quotes”
+# is the Golden Rule: dialogue stays word for word.
+
+## [block] Stock Metaphors | Pull the image from the dirt, the weather, the objects in hand, the light in the room. If it could appear in any novel by any author, cut it.
+\btapestr(y|ies) of\b
+shatter(ed|s|ing)? like glass
+\bwaves? of (emotion|feeling|grief|sadness|relief|desire|longing|nausea|exhaustion|heat|pleasure|panic|guilt|fear|anger|warmth)
+ignit(ed|es|ing) (a )?(fire|flame|spark)s? (within|inside|in (him|her|them|his|her))
+cut (through )?the (silence|tension|air) like a knife
+\bweight of the world\b
+\bstorm of (feelings|emotions?)\b
+\b(a )?storm rag(ed|ing) (inside|within)\b
+\btime (stood|seemed to stand) still\b
+\belectricity (crackled|sparked|hummed|arced)\b
+\bheart (hammered|pounded|thundered|beat) like a (drum|war ?drum)\b
+\bheart (hammered|pounded) (against|in) (his|her|their) (ribs|chest|ribcage)\b
+\b(symphony|kaleidoscope|dance|tapestry|mosaic) of (colou?rs?|light|emotions?|feelings?|sound|shadows?)\b
+\bevery fib(er|re) of (his|her|their) being\b
+\b(the )?world (fell|melted|faded) away\b
+\bthe world narrowed to\b
+\bbreath (she|he|they) (didn't|did not) know (she|he|they) (was|were|had been) holding\b
+\b(a )?moth(s)? to (a|the) flame\b
+\bsent shivers? down (his|her|their) spine\b
+\bsent a jolt (of \w+ )?through\b
+\b(an? )?(un)?spoken (promise|understanding|question|language)\b
+\bthe air (was |grew |hung )?thick with\b
+\b(was|felt) palpable\b
+\bpalpable (tension|silence|grief|relief|fear)\b
+
+## [block] Hedging & Self-Correction | State it once and move on. Pick the stronger word and cut the restatement.
+\bnot (just|only|merely|simply) [^.!?;"“”]{1,60}?,? but\b
+\bmore than [^.!?;"“”]{1,40}?(—|--|–|;)\s*(it|she|he|they|this|that) (was|were|is)\b
+,? or rather,?
+\b(it|this|that|she|he) (wasn't|was not|isn't|is not) (merely|just|simply|only) [^.!?;"“”]{1,50}?(—|--|–|,|;)\s*(it|this|that|she|he) (was|were|is)\b
+(—|--|–)\s*no,\s
+\bsomething (far )?more than\b
+\bsomething (deeper|darker|older|else entirely)\b
+
+## [block] If Not X, Then Y | This construction does not exist in Byl's voice. Choose one and commit.
+\bif not [^.!?;"“”]{1,50}?,\s*(then|at least|certainly|surely)\b
+
+## [block] Qualifier Stacking | Byl states things. Strip the hedges.
+\b(almost|nearly) (certainly|definitely|surely) (likely|probably)\b
+\b(perhaps|maybe) (possibly|probably)\b
+\bseemed to almost\b
+\bmaybe, just maybe\b
+\bsomehow,? (impossibly|inexplicably)\b
+
+## [block] Named Emotion | Show it on the body or in the world, something a camera could capture: fingers tightening, a breath catching, an axe swung harder than it needed to be.
+\b(felt|feel|feels|feeling) (a |an )?([a-z]+ ){0,2}(sense|surge|wave|pang|rush|flicker|flood|swell|stab|twinge|knot) of\b
+\b(sadness|grief|anger|rage|fear|guilt|relief|joy|dread|longing|desire|panic|shame|warmth|affection|tenderness|despair|hope|love|lust|jealousy|loneliness) (washed|flooded|surged|coursed|welled|bloomed|blossomed|settled|crashed|rose|swelled|pooled|spread|curled|unfurled) (over|through|in|up|within|inside)\b
+\b(felt|feel|feels|feeling) (so |very |suddenly |deeply )?(angry|sad|happy|afraid|scared|nervous|anxious|guilty|relieved|lonely|jealous|embarrassed|ashamed|overwhelmed|helpless|hopeless|elated|giddy|content|vulnerable|exposed)\b
+\b(was|were) (overwhelmed|consumed|gripped|seized) (by|with) (a |an )?([a-z]+ )?(emotion|grief|sadness|fear|guilt|longing|desire|need|rage|anger|joy|relief|panic|dread)\b
+\ba (profound|deep|overwhelming|bone-deep|crushing|aching) (sense of|sadness|grief|longing|loneliness|relief|guilt)\b
+\bconsumed (his|her|their) (entire|whole) being\b
+\bsomething (shifted|stirred|broke|cracked|loosened|settled) (in|inside|within|between) (him|her|them)\b
+
+## [block] Filler Transitions | Cut the throat-clearing. Byl moves from beat to beat without announcing it.
+(^|[.!?]\s+)And yet\b
+\bit was then that\b
+\bin that (moment|instant|second)\b
+\blittle did (he|she|they) know\b
+\bwhat happened next\b
+\bwould change everything\b
+\bnothing would ever be the same\b
+\bit was as if\b
+
+## [warn] Symmetrical Phrasing | Get the rhythm from the cadence of action and image, not rhetorical parallelism.
+\bnot of [^.!?;"“”]{1,40}?,? but of\b
+\bwhere [^.!?;,"“”]{1,30}? meets?\b
+\bboth [a-z]+ and [a-z]+\b
+\bpart [a-z]+,? part [a-z]+\b
+\bequal parts\b
+\bthe kind of [a-z]+ that\b
+
+## [block] Claude Tics (extended) | Common Claude fingerprints. Swap each for a concrete, specific image from the scene.
+\ba testament to\b
+\b(voice|words?) (barely|scarcely) above a whisper\b
+\bthe ghost of a (smile|laugh|touch)\b
+\ba (mix|mixture|blend) of [a-z]+ and [a-z]+\b
+\b(the )?(silence|moment) stretched( between them| on)?\b
+\b(words?|question|silence) hung (in the air|between them|heavy)\b
+\blet out a breath\b
+\breleased a breath\b
+\b(eyes|gaze) (that )?held (a|an|the) [a-z]+ of\b
+\bsomething (unreadable|indefinable|unnamed) (in|behind|flickered)\b
+\b(an )?unreadable expression\b
+\bfor a (long )?(moment|heartbeat|beat),? (neither|nobody|no one)\b
+\bdespite (himself|herself|themselves)\b
+\bhang in the balance\b
+\b(sent|send|sends) (her|his|their) (heart|pulse) (racing|soaring|skittering)\b
+\b(the|a) (dance|game) as old as time\b
+\bunshed tears? (glistened|shimmered)\b
+\bin a way that (made|felt|was)\b
+
+## [warn] Soft Tics | Fine once in a while. Repeated, they become a fingerprint.
+\bfor a (long )?moment\b
+\bsuddenly\b
+\bsomehow\b
+\bseemed to\b
+\bcouldn't help but\b
+\ba beat\b
+\bpadded (across|down|over|into|through|toward)\b
+\b(barely|scarcely) (perceptible|audible|noticeable)\b
